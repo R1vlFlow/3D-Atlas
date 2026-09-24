@@ -1,0 +1,42 @@
+[
+  {
+    "id": "carotid",
+    "ru": "Сонный канал",
+    "la": "Canalis caroticus",
+    "entrance": "Наружное отверстие сонного канала на нижней поверхности пирамиды височной кости.",
+    "exit": "Внутреннее отверстие в области верхушки пирамиды, в средней черепной ямке.",
+    "contents": "A. carotis interna и внутреннее сонное симпатическое сплетение."
+  },
+  {
+    "id": "facial",
+    "ru": "Лицевой канал",
+    "la": "Canalis facialis",
+    "entrance": "Начинается в области meatus acusticus internus.",
+    "exit": "Foramen stylomastoideum.",
+    "contents": "N. facialis (VII); внутри канала также отходит chorda tympani."
+  },
+  {
+    "id": "hypoglossal",
+    "ru": "Подъязычный канал",
+    "la": "Canalis nervi hypoglossi",
+    "entrance": "Внутреннее отверстие у condylus occipitalis.",
+    "exit": "Наружное отверстие у основания затылочной кости.",
+    "contents": "N. hypoglossus (XII) и венозное сплетение."
+  },
+  {
+    "id": "optic",
+    "ru": "Зрительный канал",
+    "la": "Canalis opticus",
+    "entrance": "Средняя черепная ямка у основания малого крыла клиновидной кости.",
+    "exit": "Верхушка орбиты.",
+    "contents": "N. opticus (II) и a. ophthalmica."
+  },
+  {
+    "id": "internal-auditory",
+    "ru": "Внутренний слуховой проход",
+    "la": "Meatus acusticus internus",
+    "entrance": "Задняя поверхность пирамиды височной кости.",
+    "exit": "Каналы внутреннего уха.",
+    "contents": "N. facialis (VII), n. vestibulocochlearis (VIII), a. labyrinthi."
+  }
+]
