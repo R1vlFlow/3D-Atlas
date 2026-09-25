@@ -1,0 +1,2504 @@
+[
+  {
+    "id": "frontal",
+    "ru": "Лобная кость",
+    "la": "Os frontale",
+    "type": "непарная",
+    "description": "Передняя часть мозгового отдела черепа и крыша орбит.",
+    "aliases": [
+      "os frontale",
+      "лобная кость"
+    ],
+    "modelNameCandidates": [
+      "Os frontale",
+      "Osfrontale",
+      "frontal"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "parietal",
+    "ru": "Теменная кость",
+    "la": "Os parietale",
+    "type": "парная",
+    "description": "Большая парная кость свода черепа.",
+    "aliases": [
+      "os parietale",
+      "теменная кость"
+    ],
+    "modelNameCandidates": [
+      "Os parietale",
+      "Osparietale",
+      "parietal"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "occipital",
+    "ru": "Затылочная кость",
+    "la": "Os occipitale",
+    "type": "непарная",
+    "description": "Окружает foramen magnum и формирует заднюю часть основания черепа.",
+    "aliases": [
+      "os occipitale",
+      "затылочная кость"
+    ],
+    "modelNameCandidates": [
+      "Os occipitale",
+      "Osoccipitale",
+      "occipital"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "temporal",
+    "ru": "Височная кость",
+    "la": "Os temporale",
+    "type": "парная",
+    "description": "Кость боковой стенки и основания черепа; содержит слуховые структуры и важные каналы.",
+    "aliases": [
+      "os temporale",
+      "височная кость"
+    ],
+    "modelNameCandidates": [
+      "Os temporale",
+      "Ostemporale",
+      "temporal"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "sphenoid",
+    "ru": "Клиновидная кость",
+    "la": "Os sphenoidale",
+    "type": "непарная",
+    "description": "Центральная кость основания черепа с sella turcica и многочисленными отверстиями.",
+    "aliases": [
+      "os sphenoidale",
+      "клиновидная кость"
+    ],
+    "modelNameCandidates": [
+      "Os sphenoidale",
+      "Ossphenoidale",
+      "sphenoid"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "ethmoid",
+    "ru": "Решётчатая кость",
+    "la": "Os ethmoidale",
+    "type": "непарная",
+    "description": "Участвует в образовании передней черепной ямки, носовой полости и орбиты.",
+    "aliases": [
+      "os ethmoidale",
+      "решётчатая кость"
+    ],
+    "modelNameCandidates": [
+      "Os ethmoidale",
+      "Osethmoidale",
+      "ethmoid"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "zygomatic",
+    "ru": "Скуловая кость",
+    "la": "Os zygomaticum",
+    "type": "парная",
+    "description": "Формирует скуловой выступ и часть стенок орбиты.",
+    "aliases": [
+      "os zygomaticum",
+      "скуловая кость"
+    ],
+    "modelNameCandidates": [
+      "Os zygomaticum",
+      "Oszygomaticum",
+      "zygomatic"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "maxilla",
+    "ru": "Верхняя челюсть",
+    "la": "Maxilla",
+    "type": "парная",
+    "description": "Кость лицевого черепа, связанная с орбитой, носовой полостью и твёрдым нёбом.",
+    "aliases": [
+      "maxilla",
+      "верхняя челюсть"
+    ],
+    "modelNameCandidates": [
+      "Maxilla",
+      "Maxilla",
+      "maxilla"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "mandible",
+    "ru": "Нижняя челюсть",
+    "la": "Mandibula",
+    "type": "непарная",
+    "description": "Единственная подвижная кость черепа.",
+    "aliases": [
+      "mandibula",
+      "нижняя челюсть"
+    ],
+    "modelNameCandidates": [
+      "Mandibula",
+      "Mandibula",
+      "mandible"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "palatine",
+    "ru": "Нёбная кость",
+    "la": "Os palatinum",
+    "type": "парная",
+    "typeKey": "paired",
+    "category": "bone",
+    "description": "Кость заднего отдела твёрдого нёба и стенок носовой полости.",
+    "aliases": [
+      "Os palatinum",
+      "Нёбная кость"
+    ],
+    "modelNameCandidates": [
+      "Os palatinum",
+      "palatine"
+    ]
+  },
+  {
+    "id": "nasal",
+    "ru": "Носовая кость",
+    "la": "Os nasale",
+    "type": "парная",
+    "typeKey": "paired",
+    "category": "bone",
+    "description": "Парная кость переносицы.",
+    "aliases": [
+      "Os nasale",
+      "Носовая кость"
+    ],
+    "modelNameCandidates": [
+      "Os nasale",
+      "nasal"
+    ]
+  },
+  {
+    "id": "lacrimal",
+    "ru": "Слёзная кость",
+    "la": "Os lacrimale",
+    "type": "парная",
+    "typeKey": "paired",
+    "category": "bone",
+    "description": "Наименьшая кость лицевого черепа; участвует в образовании медиальной стенки орбиты.",
+    "aliases": [
+      "Os lacrimale",
+      "Слёзная кость"
+    ],
+    "modelNameCandidates": [
+      "Os lacrimale",
+      "lacrimal"
+    ]
+  },
+  {
+    "id": "vomer",
+    "ru": "Сошник",
+    "la": "Vomer",
+    "type": "непарная",
+    "typeKey": "unpaired",
+    "category": "bone",
+    "description": "Непарная кость, образующая нижнюю часть костной перегородки носа.",
+    "aliases": [
+      "Vomer",
+      "Сошник"
+    ],
+    "modelNameCandidates": [
+      "Vomer",
+      "vomer"
+    ]
+  },
+  {
+    "id": "inferior-nasal-concha",
+    "ru": "Нижняя носовая раковина",
+    "la": "Concha nasalis inferior",
+    "type": "парная",
+    "typeKey": "paired",
+    "category": "bone",
+    "description": "Самостоятельная парная кость латеральной стенки носовой полости.",
+    "aliases": [
+      "Concha nasalis inferior",
+      "Нижняя носовая раковина"
+    ],
+    "modelNameCandidates": [
+      "Concha nasalis inferior",
+      "inferior-nasal-concha"
+    ]
+  },
+  {
+    "id": "hyoid",
+    "ru": "Подъязычная кость",
+    "la": "Os hyoideum",
+    "type": "непарная",
+    "typeKey": "unpaired",
+    "category": "bone",
+    "description": "Отдельно лежащая кость шеи; анатомически не относится к черепу, добавлена для будущего расширения атласа.",
+    "aliases": [
+      "Os hyoideum",
+      "Подъязычная кость"
+    ],
+    "modelNameCandidates": [
+      "Os hyoideum",
+      "hyoid"
+    ]
+  },
+  {
+    "id": "vertebrae-cervical",
+    "ru": "Шейные позвонки",
+    "la": "Vertebrae cervicales",
+    "type": "непарные",
+    "description": "Семь позвонков шейного отдела позвоночника.",
+    "aliases": [
+      "Vertebrae cervicales",
+      "Шейные позвонки"
+    ],
+    "modelNameCandidates": [
+      "Vertebrae cervicales",
+      "vertebrae-cervical",
+      "Шейные позвонки"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "vertebrae-thoracic",
+    "ru": "Грудные позвонки",
+    "la": "Vertebrae thoracicae",
+    "type": "непарные",
+    "description": "Двенадцать позвонков, соединённых с рёбрами.",
+    "aliases": [
+      "Vertebrae thoracicae",
+      "Грудные позвонки"
+    ],
+    "modelNameCandidates": [
+      "Vertebrae thoracicae",
+      "vertebrae-thoracic",
+      "Грудные позвонки"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "vertebrae-lumbar",
+    "ru": "Поясничные позвонки",
+    "la": "Vertebrae lumbales",
+    "type": "непарные",
+    "description": "Пять массивных позвонков поясничного отдела.",
+    "aliases": [
+      "Vertebrae lumbales",
+      "Поясничные позвонки"
+    ],
+    "modelNameCandidates": [
+      "Vertebrae lumbales",
+      "vertebrae-lumbar",
+      "Поясничные позвонки"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "sacrum",
+    "ru": "Крестец",
+    "la": "Os sacrum",
+    "type": "непарная",
+    "description": "Сросшиеся крестцовые позвонки; соединяет позвоночник с тазом.",
+    "aliases": [
+      "Os sacrum",
+      "Крестец"
+    ],
+    "modelNameCandidates": [
+      "Os sacrum",
+      "sacrum",
+      "Крестец"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "coccyx",
+    "ru": "Копчик",
+    "la": "Os coccygis",
+    "type": "непарная",
+    "description": "Конечный отдел позвоночного столба.",
+    "aliases": [
+      "Os coccygis",
+      "Копчик"
+    ],
+    "modelNameCandidates": [
+      "Os coccygis",
+      "coccyx",
+      "Копчик"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "rib",
+    "ru": "Рёбра",
+    "la": "Costae",
+    "type": "парные",
+    "description": "Двенадцать пар дугообразных костей грудной клетки.",
+    "aliases": [
+      "Costae",
+      "Рёбра"
+    ],
+    "modelNameCandidates": [
+      "Costae",
+      "rib",
+      "Рёбра"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "sternum",
+    "ru": "Грудина",
+    "la": "Sternum",
+    "type": "непарная",
+    "description": "Плоская кость передней стенки грудной клетки.",
+    "aliases": [
+      "Sternum",
+      "Грудина"
+    ],
+    "modelNameCandidates": [
+      "Sternum",
+      "sternum",
+      "Грудина"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "clavicle",
+    "ru": "Ключица",
+    "la": "Clavicula",
+    "type": "парная",
+    "description": "S-образная кость плечевого пояса.",
+    "aliases": [
+      "Clavicula",
+      "Ключица"
+    ],
+    "modelNameCandidates": [
+      "Clavicula",
+      "clavicle",
+      "Ключица"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "scapula",
+    "ru": "Лопатка",
+    "la": "Scapula",
+    "type": "парная",
+    "description": "Плоская треугольная кость плечевого пояса.",
+    "aliases": [
+      "Scapula",
+      "Лопатка"
+    ],
+    "modelNameCandidates": [
+      "Scapula",
+      "scapula",
+      "Лопатка"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "humerus",
+    "ru": "Плечевая кость",
+    "la": "Humerus",
+    "type": "парная",
+    "description": "Длинная кость плеча.",
+    "aliases": [
+      "Humerus",
+      "Плечевая кость"
+    ],
+    "modelNameCandidates": [
+      "Humerus",
+      "humerus",
+      "Плечевая кость"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "radius",
+    "ru": "Лучевая кость",
+    "la": "Radius",
+    "type": "парная",
+    "description": "Латеральная кость предплечья в анатомическом положении.",
+    "aliases": [
+      "Radius",
+      "Лучевая кость"
+    ],
+    "modelNameCandidates": [
+      "Radius",
+      "radius",
+      "Лучевая кость"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "ulna",
+    "ru": "Локтевая кость",
+    "la": "Ulna",
+    "type": "парная",
+    "description": "Медиальная кость предплечья в анатомическом положении.",
+    "aliases": [
+      "Ulna",
+      "Локтевая кость"
+    ],
+    "modelNameCandidates": [
+      "Ulna",
+      "ulna",
+      "Локтевая кость"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "carpal-bones",
+    "ru": "Кости запястья",
+    "la": "Ossa carpi",
+    "type": "парные",
+    "description": "Восемь мелких костей каждого запястья.",
+    "aliases": [
+      "Ossa carpi",
+      "Кости запястья"
+    ],
+    "modelNameCandidates": [
+      "Ossa carpi",
+      "carpal-bones",
+      "Кости запястья"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "metacarpals",
+    "ru": "Пястные кости",
+    "la": "Ossa metacarpalia",
+    "type": "парные",
+    "description": "Пять костей каждой кисти.",
+    "aliases": [
+      "Ossa metacarpalia",
+      "Пястные кости"
+    ],
+    "modelNameCandidates": [
+      "Ossa metacarpalia",
+      "metacarpals",
+      "Пястные кости"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "phalanges-hand",
+    "ru": "Фаланги кисти",
+    "la": "Phalanges manus",
+    "type": "парные",
+    "description": "Кости пальцев кисти.",
+    "aliases": [
+      "Phalanges manus",
+      "Фаланги кисти"
+    ],
+    "modelNameCandidates": [
+      "Phalanges manus",
+      "phalanges-hand",
+      "Фаланги кисти"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "pelvic-bone",
+    "ru": "Тазовая кость",
+    "la": "Os coxae",
+    "type": "парная",
+    "description": "Составная кость таза: подвздошная, седалищная и лобковая части.",
+    "aliases": [
+      "Os coxae",
+      "Тазовая кость"
+    ],
+    "modelNameCandidates": [
+      "Os coxae",
+      "pelvic-bone",
+      "Тазовая кость"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "femur",
+    "ru": "Бедренная кость",
+    "la": "Femur",
+    "type": "парная",
+    "description": "Самая длинная кость скелета; образует бедро.",
+    "aliases": [
+      "Femur",
+      "Бедренная кость"
+    ],
+    "modelNameCandidates": [
+      "Femur",
+      "femur",
+      "Бедренная кость"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "patella",
+    "ru": "Надколенник",
+    "la": "Patella",
+    "type": "парная",
+    "description": "Сесамовидная кость в сухожилии четырёхглавой мышцы бедра.",
+    "aliases": [
+      "Patella",
+      "Надколенник"
+    ],
+    "modelNameCandidates": [
+      "Patella",
+      "patella",
+      "Надколенник"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "tibia",
+    "ru": "Большеберцовая кость",
+    "la": "Tibia",
+    "type": "парная",
+    "description": "Медиальная и основная опорная кость голени.",
+    "aliases": [
+      "Tibia",
+      "Большеберцовая кость"
+    ],
+    "modelNameCandidates": [
+      "Tibia",
+      "tibia",
+      "Большеберцовая кость"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "fibula",
+    "ru": "Малоберцовая кость",
+    "la": "Fibula",
+    "type": "парная",
+    "description": "Латеральная кость голени.",
+    "aliases": [
+      "Fibula",
+      "Малоберцовая кость"
+    ],
+    "modelNameCandidates": [
+      "Fibula",
+      "fibula",
+      "Малоберцовая кость"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "tarsal-bones",
+    "ru": "Кости предплюсны",
+    "la": "Ossa tarsi",
+    "type": "парные",
+    "description": "Семь костей каждой стопы: включая таранную, пяточную и ладьевидную.",
+    "aliases": [
+      "Ossa tarsi",
+      "Кости предплюсны"
+    ],
+    "modelNameCandidates": [
+      "Ossa tarsi",
+      "tarsal-bones",
+      "Кости предплюсны"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "metatarsals",
+    "ru": "Плюсневые кости",
+    "la": "Ossa metatarsalia",
+    "type": "парные",
+    "description": "Пять костей каждой стопы.",
+    "aliases": [
+      "Ossa metatarsalia",
+      "Плюсневые кости"
+    ],
+    "modelNameCandidates": [
+      "Ossa metatarsalia",
+      "metatarsals",
+      "Плюсневые кости"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "phalanges-foot",
+    "ru": "Фаланги стопы",
+    "la": "Phalanges pedis",
+    "type": "парные",
+    "description": "Кости пальцев стопы.",
+    "aliases": [
+      "Phalanges pedis",
+      "Фаланги стопы"
+    ],
+    "modelNameCandidates": [
+      "Phalanges pedis",
+      "phalanges-foot",
+      "Фаланги стопы"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "scaphoid",
+    "ru": "Ладьевидная кость",
+    "la": "Os scaphoideum",
+    "type": "парная",
+    "description": "Одна из восьми костей запястья.",
+    "aliases": [
+      "Os scaphoideum",
+      "Ладьевидная кость"
+    ],
+    "modelNameCandidates": [
+      "Os scaphoideum",
+      "scaphoid",
+      "Ладьевидная кость"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "lunate",
+    "ru": "Полулунная кость",
+    "la": "Os lunatum",
+    "type": "парная",
+    "description": "Одна из восьми костей запястья.",
+    "aliases": [
+      "Os lunatum",
+      "Полулунная кость"
+    ],
+    "modelNameCandidates": [
+      "Os lunatum",
+      "lunate",
+      "Полулунная кость"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "triquetrum",
+    "ru": "Трёхгранная кость",
+    "la": "Os triquetrum",
+    "type": "парная",
+    "description": "Одна из восьми костей запястья.",
+    "aliases": [
+      "Os triquetrum",
+      "Трёхгранная кость"
+    ],
+    "modelNameCandidates": [
+      "Os triquetrum",
+      "triquetrum",
+      "Трёхгранная кость"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "pisiform",
+    "ru": "Гороховидная кость",
+    "la": "Os pisiforme",
+    "type": "парная",
+    "description": "Одна из восьми костей запястья.",
+    "aliases": [
+      "Os pisiforme",
+      "Гороховидная кость"
+    ],
+    "modelNameCandidates": [
+      "Os pisiforme",
+      "pisiform",
+      "Гороховидная кость"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "trapezium",
+    "ru": "Кость-трапеция",
+    "la": "Os trapezium",
+    "type": "парная",
+    "description": "Одна из восьми костей запястья.",
+    "aliases": [
+      "Os trapezium",
+      "Кость-трапеция"
+    ],
+    "modelNameCandidates": [
+      "Os trapezium",
+      "trapezium",
+      "Кость-трапеция"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "trapezoid",
+    "ru": "Трапециевидная кость",
+    "la": "Os trapezoideum",
+    "type": "парная",
+    "description": "Одна из восьми костей запястья.",
+    "aliases": [
+      "Os trapezoideum",
+      "Трапециевидная кость"
+    ],
+    "modelNameCandidates": [
+      "Os trapezoideum",
+      "trapezoid",
+      "Трапециевидная кость"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "capitate",
+    "ru": "Головчатая кость",
+    "la": "Os capitatum",
+    "type": "парная",
+    "description": "Одна из восьми костей запястья.",
+    "aliases": [
+      "Os capitatum",
+      "Головчатая кость"
+    ],
+    "modelNameCandidates": [
+      "Os capitatum",
+      "capitate",
+      "Головчатая кость"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "hamate",
+    "ru": "Крючковидная кость",
+    "la": "Os hamatum",
+    "type": "парная",
+    "description": "Одна из восьми костей запястья.",
+    "aliases": [
+      "Os hamatum",
+      "Крючковидная кость"
+    ],
+    "modelNameCandidates": [
+      "Os hamatum",
+      "hamate",
+      "Крючковидная кость"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "talus",
+    "ru": "Таранная кость",
+    "la": "Talus",
+    "type": "парная",
+    "description": "Одна из семи костей предплюсны.",
+    "aliases": [
+      "Talus",
+      "Таранная кость"
+    ],
+    "modelNameCandidates": [
+      "Talus",
+      "talus",
+      "Таранная кость"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "calcaneus",
+    "ru": "Пяточная кость",
+    "la": "Calcaneus",
+    "type": "парная",
+    "description": "Одна из семи костей предплюсны.",
+    "aliases": [
+      "Calcaneus",
+      "Пяточная кость"
+    ],
+    "modelNameCandidates": [
+      "Calcaneus",
+      "calcaneus",
+      "Пяточная кость"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "navicular-foot",
+    "ru": "Ладьевидная кость стопы",
+    "la": "Os naviculare",
+    "type": "парная",
+    "description": "Одна из семи костей предплюсны.",
+    "aliases": [
+      "Os naviculare",
+      "Ладьевидная кость стопы"
+    ],
+    "modelNameCandidates": [
+      "Os naviculare",
+      "navicular-foot",
+      "Ладьевидная кость стопы"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "cuboid",
+    "ru": "Кубовидная кость",
+    "la": "Os cuboideum",
+    "type": "парная",
+    "description": "Одна из семи костей предплюсны.",
+    "aliases": [
+      "Os cuboideum",
+      "Кубовидная кость"
+    ],
+    "modelNameCandidates": [
+      "Os cuboideum",
+      "cuboid",
+      "Кубовидная кость"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "medial-cuneiform",
+    "ru": "Медиальная клиновидная кость",
+    "la": "Os cuneiforme mediale",
+    "type": "парная",
+    "description": "Одна из семи костей предплюсны.",
+    "aliases": [
+      "Os cuneiforme mediale",
+      "Медиальная клиновидная кость"
+    ],
+    "modelNameCandidates": [
+      "Os cuneiforme mediale",
+      "medial-cuneiform",
+      "Медиальная клиновидная кость"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "intermediate-cuneiform",
+    "ru": "Промежуточная клиновидная кость",
+    "la": "Os cuneiforme intermedium",
+    "type": "парная",
+    "description": "Одна из семи костей предплюсны.",
+    "aliases": [
+      "Os cuneiforme intermedium",
+      "Промежуточная клиновидная кость"
+    ],
+    "modelNameCandidates": [
+      "Os cuneiforme intermedium",
+      "intermediate-cuneiform",
+      "Промежуточная клиновидная кость"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "lateral-cuneiform",
+    "ru": "Латеральная клиновидная кость",
+    "la": "Os cuneiforme laterale",
+    "type": "парная",
+    "description": "Одна из семи костей предплюсны.",
+    "aliases": [
+      "Os cuneiforme laterale",
+      "Латеральная клиновидная кость"
+    ],
+    "modelNameCandidates": [
+      "Os cuneiforme laterale",
+      "lateral-cuneiform",
+      "Латеральная клиновидная кость"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "ilium",
+    "ru": "Подвздошная кость",
+    "la": "Os ilium",
+    "type": "парная",
+    "description": "Составная часть тазовой кости.",
+    "aliases": [
+      "Os ilium",
+      "Подвздошная кость"
+    ],
+    "modelNameCandidates": [
+      "Os ilium",
+      "ilium",
+      "Подвздошная кость"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "ischium",
+    "ru": "Седалищная кость",
+    "la": "Os ischii",
+    "type": "парная",
+    "description": "Составная часть тазовой кости.",
+    "aliases": [
+      "Os ischii",
+      "Седалищная кость"
+    ],
+    "modelNameCandidates": [
+      "Os ischii",
+      "ischium",
+      "Седалищная кость"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "pubis",
+    "ru": "Лобковая кость",
+    "la": "Os pubis",
+    "type": "парная",
+    "description": "Составная часть тазовой кости.",
+    "aliases": [
+      "Os pubis",
+      "Лобковая кость"
+    ],
+    "modelNameCandidates": [
+      "Os pubis",
+      "pubis",
+      "Лобковая кость"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "atlas",
+    "ru": "Атлант (I шейный позвонок)",
+    "la": "Atlas (C1)",
+    "type": "непарная",
+    "description": "Первый шейный позвонок; не имеет тела позвонка.",
+    "aliases": [
+      "Atlas (C1)",
+      "Атлант (I шейный позвонок)"
+    ],
+    "modelNameCandidates": [
+      "Atlas (C1)",
+      "atlas",
+      "Атлант (I шейный позвонок)"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "axis",
+    "ru": "Осевой позвонок (II шейный)",
+    "la": "Axis (C2)",
+    "type": "непарная",
+    "description": "Второй шейный позвонок; имеет dens axis.",
+    "aliases": [
+      "Axis (C2)",
+      "Осевой позвонок (II шейный)"
+    ],
+    "modelNameCandidates": [
+      "Axis (C2)",
+      "axis",
+      "Осевой позвонок (II шейный)"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "c7",
+    "ru": "VII шейный позвонок",
+    "la": "Vertebra prominens",
+    "type": "непарная",
+    "description": "Выступающий шейный позвонок.",
+    "aliases": [
+      "Vertebra prominens",
+      "VII шейный позвонок"
+    ],
+    "modelNameCandidates": [
+      "Vertebra prominens",
+      "c7",
+      "VII шейный позвонок"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "t1",
+    "ru": "I грудной позвонок",
+    "la": "Vertebra thoracica I",
+    "type": "непарная",
+    "description": "Первый грудной позвонок.",
+    "aliases": [
+      "Vertebra thoracica I",
+      "I грудной позвонок"
+    ],
+    "modelNameCandidates": [
+      "Vertebra thoracica I",
+      "t1",
+      "I грудной позвонок"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "t12",
+    "ru": "XII грудной позвонок",
+    "la": "Vertebra thoracica XII",
+    "type": "непарная",
+    "description": "Последний грудной позвонок.",
+    "aliases": [
+      "Vertebra thoracica XII",
+      "XII грудной позвонок"
+    ],
+    "modelNameCandidates": [
+      "Vertebra thoracica XII",
+      "t12",
+      "XII грудной позвонок"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "l1",
+    "ru": "I поясничный позвонок",
+    "la": "Vertebra lumbalis I",
+    "type": "непарная",
+    "description": "Первый поясничный позвонок.",
+    "aliases": [
+      "Vertebra lumbalis I",
+      "I поясничный позвонок"
+    ],
+    "modelNameCandidates": [
+      "Vertebra lumbalis I",
+      "l1",
+      "I поясничный позвонок"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "l5",
+    "ru": "V поясничный позвонок",
+    "la": "Vertebra lumbalis V",
+    "type": "непарная",
+    "description": "Пятый поясничный позвонок.",
+    "aliases": [
+      "Vertebra lumbalis V",
+      "V поясничный позвонок"
+    ],
+    "modelNameCandidates": [
+      "Vertebra lumbalis V",
+      "l5",
+      "V поясничный позвонок"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "manubrium",
+    "ru": "Рукоятка грудины",
+    "la": "Manubrium sterni",
+    "type": "непарная",
+    "description": "Верхняя часть грудины.",
+    "aliases": [
+      "Manubrium sterni",
+      "Рукоятка грудины"
+    ],
+    "modelNameCandidates": [
+      "Manubrium sterni",
+      "manubrium",
+      "Рукоятка грудины"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "body-sternum",
+    "ru": "Тело грудины",
+    "la": "Corpus sterni",
+    "type": "непарная",
+    "description": "Средняя часть грудины.",
+    "aliases": [
+      "Corpus sterni",
+      "Тело грудины"
+    ],
+    "modelNameCandidates": [
+      "Corpus sterni",
+      "body-sternum",
+      "Тело грудины"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "xiphoid",
+    "ru": "Мечевидный отросток",
+    "la": "Processus xiphoideus",
+    "type": "непарная",
+    "description": "Нижняя часть грудины.",
+    "aliases": [
+      "Processus xiphoideus",
+      "Мечевидный отросток"
+    ],
+    "modelNameCandidates": [
+      "Processus xiphoideus",
+      "xiphoid",
+      "Мечевидный отросток"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "rib-1",
+    "ru": "1-е ребро",
+    "la": "Costa 1",
+    "type": "парная",
+    "description": "1-е ребро грудной клетки; справа и слева.",
+    "aliases": [
+      "Costa 1",
+      "1-е ребро"
+    ],
+    "modelNameCandidates": [
+      "Costa 1",
+      "Costa1",
+      "Rib 1",
+      "Rib1"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "rib-2",
+    "ru": "2-е ребро",
+    "la": "Costa 2",
+    "type": "парная",
+    "description": "2-е ребро грудной клетки; справа и слева.",
+    "aliases": [
+      "Costa 2",
+      "2-е ребро"
+    ],
+    "modelNameCandidates": [
+      "Costa 2",
+      "Costa2",
+      "Rib 2",
+      "Rib2"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "rib-3",
+    "ru": "3-е ребро",
+    "la": "Costa 3",
+    "type": "парная",
+    "description": "3-е ребро грудной клетки; справа и слева.",
+    "aliases": [
+      "Costa 3",
+      "3-е ребро"
+    ],
+    "modelNameCandidates": [
+      "Costa 3",
+      "Costa3",
+      "Rib 3",
+      "Rib3"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "rib-4",
+    "ru": "4-е ребро",
+    "la": "Costa 4",
+    "type": "парная",
+    "description": "4-е ребро грудной клетки; справа и слева.",
+    "aliases": [
+      "Costa 4",
+      "4-е ребро"
+    ],
+    "modelNameCandidates": [
+      "Costa 4",
+      "Costa4",
+      "Rib 4",
+      "Rib4"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "rib-5",
+    "ru": "5-е ребро",
+    "la": "Costa 5",
+    "type": "парная",
+    "description": "5-е ребро грудной клетки; справа и слева.",
+    "aliases": [
+      "Costa 5",
+      "5-е ребро"
+    ],
+    "modelNameCandidates": [
+      "Costa 5",
+      "Costa5",
+      "Rib 5",
+      "Rib5"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "rib-6",
+    "ru": "6-е ребро",
+    "la": "Costa 6",
+    "type": "парная",
+    "description": "6-е ребро грудной клетки; справа и слева.",
+    "aliases": [
+      "Costa 6",
+      "6-е ребро"
+    ],
+    "modelNameCandidates": [
+      "Costa 6",
+      "Costa6",
+      "Rib 6",
+      "Rib6"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "rib-7",
+    "ru": "7-е ребро",
+    "la": "Costa 7",
+    "type": "парная",
+    "description": "7-е ребро грудной клетки; справа и слева.",
+    "aliases": [
+      "Costa 7",
+      "7-е ребро"
+    ],
+    "modelNameCandidates": [
+      "Costa 7",
+      "Costa7",
+      "Rib 7",
+      "Rib7"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "rib-8",
+    "ru": "8-е ребро",
+    "la": "Costa 8",
+    "type": "парная",
+    "description": "8-е ребро грудной клетки; справа и слева.",
+    "aliases": [
+      "Costa 8",
+      "8-е ребро"
+    ],
+    "modelNameCandidates": [
+      "Costa 8",
+      "Costa8",
+      "Rib 8",
+      "Rib8"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "rib-9",
+    "ru": "9-е ребро",
+    "la": "Costa 9",
+    "type": "парная",
+    "description": "9-е ребро грудной клетки; справа и слева.",
+    "aliases": [
+      "Costa 9",
+      "9-е ребро"
+    ],
+    "modelNameCandidates": [
+      "Costa 9",
+      "Costa9",
+      "Rib 9",
+      "Rib9"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "rib-10",
+    "ru": "10-е ребро",
+    "la": "Costa 10",
+    "type": "парная",
+    "description": "10-е ребро грудной клетки; справа и слева.",
+    "aliases": [
+      "Costa 10",
+      "10-е ребро"
+    ],
+    "modelNameCandidates": [
+      "Costa 10",
+      "Costa10",
+      "Rib 10",
+      "Rib10"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "rib-11",
+    "ru": "11-е ребро",
+    "la": "Costa 11",
+    "type": "парная",
+    "description": "11-е ребро грудной клетки; справа и слева.",
+    "aliases": [
+      "Costa 11",
+      "11-е ребро"
+    ],
+    "modelNameCandidates": [
+      "Costa 11",
+      "Costa11",
+      "Rib 11",
+      "Rib11"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "rib-12",
+    "ru": "12-е ребро",
+    "la": "Costa 12",
+    "type": "парная",
+    "description": "12-е ребро грудной клетки; справа и слева.",
+    "aliases": [
+      "Costa 12",
+      "12-е ребро"
+    ],
+    "modelNameCandidates": [
+      "Costa 12",
+      "Costa12",
+      "Rib 12",
+      "Rib12"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "metacarpal-1",
+    "ru": "I пястная кость",
+    "la": "Os metacarpale I",
+    "type": "парная",
+    "description": "Пястная кость соответствующего пальца.",
+    "aliases": [
+      "Os metacarpale I",
+      "I пястная кость"
+    ],
+    "modelNameCandidates": [
+      "Os metacarpale I",
+      "Metacarpal I",
+      "Metacarpal 1"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "metacarpal-2",
+    "ru": "II пястная кость",
+    "la": "Os metacarpale II",
+    "type": "парная",
+    "description": "Пястная кость соответствующего пальца.",
+    "aliases": [
+      "Os metacarpale II",
+      "II пястная кость"
+    ],
+    "modelNameCandidates": [
+      "Os metacarpale II",
+      "Metacarpal II",
+      "Metacarpal 2"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "metacarpal-3",
+    "ru": "III пястная кость",
+    "la": "Os metacarpale III",
+    "type": "парная",
+    "description": "Пястная кость соответствующего пальца.",
+    "aliases": [
+      "Os metacarpale III",
+      "III пястная кость"
+    ],
+    "modelNameCandidates": [
+      "Os metacarpale III",
+      "Metacarpal III",
+      "Metacarpal 3"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "metacarpal-4",
+    "ru": "IV пястная кость",
+    "la": "Os metacarpale IV",
+    "type": "парная",
+    "description": "Пястная кость соответствующего пальца.",
+    "aliases": [
+      "Os metacarpale IV",
+      "IV пястная кость"
+    ],
+    "modelNameCandidates": [
+      "Os metacarpale IV",
+      "Metacarpal IV",
+      "Metacarpal 4"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "metacarpal-5",
+    "ru": "V пястная кость",
+    "la": "Os metacarpale V",
+    "type": "парная",
+    "description": "Пястная кость соответствующего пальца.",
+    "aliases": [
+      "Os metacarpale V",
+      "V пястная кость"
+    ],
+    "modelNameCandidates": [
+      "Os metacarpale V",
+      "Metacarpal V",
+      "Metacarpal 5"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "metatarsal-1",
+    "ru": "I плюсневая кость",
+    "la": "Os metatarsale I",
+    "type": "парная",
+    "description": "Плюсневая кость соответствующего пальца стопы.",
+    "aliases": [
+      "Os metatarsale I",
+      "I плюсневая кость"
+    ],
+    "modelNameCandidates": [
+      "Os metatarsale I",
+      "Metatarsal I",
+      "Metatarsal 1"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "metatarsal-2",
+    "ru": "II плюсневая кость",
+    "la": "Os metatarsale II",
+    "type": "парная",
+    "description": "Плюсневая кость соответствующего пальца стопы.",
+    "aliases": [
+      "Os metatarsale II",
+      "II плюсневая кость"
+    ],
+    "modelNameCandidates": [
+      "Os metatarsale II",
+      "Metatarsal II",
+      "Metatarsal 2"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "metatarsal-3",
+    "ru": "III плюсневая кость",
+    "la": "Os metatarsale III",
+    "type": "парная",
+    "description": "Плюсневая кость соответствующего пальца стопы.",
+    "aliases": [
+      "Os metatarsale III",
+      "III плюсневая кость"
+    ],
+    "modelNameCandidates": [
+      "Os metatarsale III",
+      "Metatarsal III",
+      "Metatarsal 3"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "metatarsal-4",
+    "ru": "IV плюсневая кость",
+    "la": "Os metatarsale IV",
+    "type": "парная",
+    "description": "Плюсневая кость соответствующего пальца стопы.",
+    "aliases": [
+      "Os metatarsale IV",
+      "IV плюсневая кость"
+    ],
+    "modelNameCandidates": [
+      "Os metatarsale IV",
+      "Metatarsal IV",
+      "Metatarsal 4"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "metatarsal-5",
+    "ru": "V плюсневая кость",
+    "la": "Os metatarsale V",
+    "type": "парная",
+    "description": "Плюсневая кость соответствующего пальца стопы.",
+    "aliases": [
+      "Os metatarsale V",
+      "V плюсневая кость"
+    ],
+    "modelNameCandidates": [
+      "Os metatarsale V",
+      "Metatarsal V",
+      "Metatarsal 5"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "hand-phalanx-1-1",
+    "ru": "1-я фаланга 1-го пальца кисти",
+    "la": "Phalanx 1 digiti 1 Manus",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 1 digiti 1 Manus",
+      "1-я фаланга 1-го пальца кисти"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 1 digiti 1 Manus",
+      "hand phalanx 1-1",
+      "Phalanx 1 digit 1"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "hand-phalanx-1-2",
+    "ru": "2-я фаланга 1-го пальца кисти",
+    "la": "Phalanx 2 digiti 1 Manus",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 2 digiti 1 Manus",
+      "2-я фаланга 1-го пальца кисти"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 2 digiti 1 Manus",
+      "hand phalanx 1-2",
+      "Phalanx 2 digit 1"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "hand-phalanx-2-1",
+    "ru": "1-я фаланга 2-го пальца кисти",
+    "la": "Phalanx 1 digiti 2 Manus",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 1 digiti 2 Manus",
+      "1-я фаланга 2-го пальца кисти"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 1 digiti 2 Manus",
+      "hand phalanx 2-1",
+      "Phalanx 1 digit 2"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "hand-phalanx-2-2",
+    "ru": "2-я фаланга 2-го пальца кисти",
+    "la": "Phalanx 2 digiti 2 Manus",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 2 digiti 2 Manus",
+      "2-я фаланга 2-го пальца кисти"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 2 digiti 2 Manus",
+      "hand phalanx 2-2",
+      "Phalanx 2 digit 2"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "hand-phalanx-2-3",
+    "ru": "3-я фаланга 2-го пальца кисти",
+    "la": "Phalanx 3 digiti 2 Manus",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 3 digiti 2 Manus",
+      "3-я фаланга 2-го пальца кисти"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 3 digiti 2 Manus",
+      "hand phalanx 2-3",
+      "Phalanx 3 digit 2"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "hand-phalanx-3-1",
+    "ru": "1-я фаланга 3-го пальца кисти",
+    "la": "Phalanx 1 digiti 3 Manus",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 1 digiti 3 Manus",
+      "1-я фаланга 3-го пальца кисти"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 1 digiti 3 Manus",
+      "hand phalanx 3-1",
+      "Phalanx 1 digit 3"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "hand-phalanx-3-2",
+    "ru": "2-я фаланга 3-го пальца кисти",
+    "la": "Phalanx 2 digiti 3 Manus",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 2 digiti 3 Manus",
+      "2-я фаланга 3-го пальца кисти"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 2 digiti 3 Manus",
+      "hand phalanx 3-2",
+      "Phalanx 2 digit 3"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "hand-phalanx-3-3",
+    "ru": "3-я фаланга 3-го пальца кисти",
+    "la": "Phalanx 3 digiti 3 Manus",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 3 digiti 3 Manus",
+      "3-я фаланга 3-го пальца кисти"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 3 digiti 3 Manus",
+      "hand phalanx 3-3",
+      "Phalanx 3 digit 3"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "hand-phalanx-4-1",
+    "ru": "1-я фаланга 4-го пальца кисти",
+    "la": "Phalanx 1 digiti 4 Manus",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 1 digiti 4 Manus",
+      "1-я фаланга 4-го пальца кисти"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 1 digiti 4 Manus",
+      "hand phalanx 4-1",
+      "Phalanx 1 digit 4"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "hand-phalanx-4-2",
+    "ru": "2-я фаланга 4-го пальца кисти",
+    "la": "Phalanx 2 digiti 4 Manus",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 2 digiti 4 Manus",
+      "2-я фаланга 4-го пальца кисти"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 2 digiti 4 Manus",
+      "hand phalanx 4-2",
+      "Phalanx 2 digit 4"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "hand-phalanx-4-3",
+    "ru": "3-я фаланга 4-го пальца кисти",
+    "la": "Phalanx 3 digiti 4 Manus",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 3 digiti 4 Manus",
+      "3-я фаланга 4-го пальца кисти"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 3 digiti 4 Manus",
+      "hand phalanx 4-3",
+      "Phalanx 3 digit 4"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "hand-phalanx-5-1",
+    "ru": "1-я фаланга 5-го пальца кисти",
+    "la": "Phalanx 1 digiti 5 Manus",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 1 digiti 5 Manus",
+      "1-я фаланга 5-го пальца кисти"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 1 digiti 5 Manus",
+      "hand phalanx 5-1",
+      "Phalanx 1 digit 5"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "hand-phalanx-5-2",
+    "ru": "2-я фаланга 5-го пальца кисти",
+    "la": "Phalanx 2 digiti 5 Manus",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 2 digiti 5 Manus",
+      "2-я фаланга 5-го пальца кисти"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 2 digiti 5 Manus",
+      "hand phalanx 5-2",
+      "Phalanx 2 digit 5"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "hand-phalanx-5-3",
+    "ru": "3-я фаланга 5-го пальца кисти",
+    "la": "Phalanx 3 digiti 5 Manus",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 3 digiti 5 Manus",
+      "3-я фаланга 5-го пальца кисти"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 3 digiti 5 Manus",
+      "hand phalanx 5-3",
+      "Phalanx 3 digit 5"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "foot-phalanx-1-1",
+    "ru": "1-я фаланга 1-го пальца стопы",
+    "la": "Phalanx 1 digiti 1 Pedis",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 1 digiti 1 Pedis",
+      "1-я фаланга 1-го пальца стопы"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 1 digiti 1 Pedis",
+      "foot phalanx 1-1",
+      "Phalanx 1 digit 1"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "foot-phalanx-1-2",
+    "ru": "2-я фаланга 1-го пальца стопы",
+    "la": "Phalanx 2 digiti 1 Pedis",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 2 digiti 1 Pedis",
+      "2-я фаланга 1-го пальца стопы"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 2 digiti 1 Pedis",
+      "foot phalanx 1-2",
+      "Phalanx 2 digit 1"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "foot-phalanx-2-1",
+    "ru": "1-я фаланга 2-го пальца стопы",
+    "la": "Phalanx 1 digiti 2 Pedis",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 1 digiti 2 Pedis",
+      "1-я фаланга 2-го пальца стопы"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 1 digiti 2 Pedis",
+      "foot phalanx 2-1",
+      "Phalanx 1 digit 2"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "foot-phalanx-2-2",
+    "ru": "2-я фаланга 2-го пальца стопы",
+    "la": "Phalanx 2 digiti 2 Pedis",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 2 digiti 2 Pedis",
+      "2-я фаланга 2-го пальца стопы"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 2 digiti 2 Pedis",
+      "foot phalanx 2-2",
+      "Phalanx 2 digit 2"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "foot-phalanx-2-3",
+    "ru": "3-я фаланга 2-го пальца стопы",
+    "la": "Phalanx 3 digiti 2 Pedis",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 3 digiti 2 Pedis",
+      "3-я фаланга 2-го пальца стопы"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 3 digiti 2 Pedis",
+      "foot phalanx 2-3",
+      "Phalanx 3 digit 2"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "foot-phalanx-3-1",
+    "ru": "1-я фаланга 3-го пальца стопы",
+    "la": "Phalanx 1 digiti 3 Pedis",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 1 digiti 3 Pedis",
+      "1-я фаланга 3-го пальца стопы"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 1 digiti 3 Pedis",
+      "foot phalanx 3-1",
+      "Phalanx 1 digit 3"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "foot-phalanx-3-2",
+    "ru": "2-я фаланга 3-го пальца стопы",
+    "la": "Phalanx 2 digiti 3 Pedis",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 2 digiti 3 Pedis",
+      "2-я фаланга 3-го пальца стопы"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 2 digiti 3 Pedis",
+      "foot phalanx 3-2",
+      "Phalanx 2 digit 3"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "foot-phalanx-3-3",
+    "ru": "3-я фаланга 3-го пальца стопы",
+    "la": "Phalanx 3 digiti 3 Pedis",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 3 digiti 3 Pedis",
+      "3-я фаланга 3-го пальца стопы"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 3 digiti 3 Pedis",
+      "foot phalanx 3-3",
+      "Phalanx 3 digit 3"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "foot-phalanx-4-1",
+    "ru": "1-я фаланга 4-го пальца стопы",
+    "la": "Phalanx 1 digiti 4 Pedis",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 1 digiti 4 Pedis",
+      "1-я фаланга 4-го пальца стопы"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 1 digiti 4 Pedis",
+      "foot phalanx 4-1",
+      "Phalanx 1 digit 4"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "foot-phalanx-4-2",
+    "ru": "2-я фаланга 4-го пальца стопы",
+    "la": "Phalanx 2 digiti 4 Pedis",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 2 digiti 4 Pedis",
+      "2-я фаланга 4-го пальца стопы"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 2 digiti 4 Pedis",
+      "foot phalanx 4-2",
+      "Phalanx 2 digit 4"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "foot-phalanx-4-3",
+    "ru": "3-я фаланга 4-го пальца стопы",
+    "la": "Phalanx 3 digiti 4 Pedis",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 3 digiti 4 Pedis",
+      "3-я фаланга 4-го пальца стопы"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 3 digiti 4 Pedis",
+      "foot phalanx 4-3",
+      "Phalanx 3 digit 4"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "foot-phalanx-5-1",
+    "ru": "1-я фаланга 5-го пальца стопы",
+    "la": "Phalanx 1 digiti 5 Pedis",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 1 digiti 5 Pedis",
+      "1-я фаланга 5-го пальца стопы"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 1 digiti 5 Pedis",
+      "foot phalanx 5-1",
+      "Phalanx 1 digit 5"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "foot-phalanx-5-2",
+    "ru": "2-я фаланга 5-го пальца стопы",
+    "la": "Phalanx 2 digiti 5 Pedis",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 2 digiti 5 Pedis",
+      "2-я фаланга 5-го пальца стопы"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 2 digiti 5 Pedis",
+      "foot phalanx 5-2",
+      "Phalanx 2 digit 5"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "foot-phalanx-5-3",
+    "ru": "3-я фаланга 5-го пальца стопы",
+    "la": "Phalanx 3 digiti 5 Pedis",
+    "type": "парная",
+    "description": "Фаланга соответствующего пальца.",
+    "aliases": [
+      "Phalanx 3 digiti 5 Pedis",
+      "3-я фаланга 5-го пальца стопы"
+    ],
+    "modelNameCandidates": [
+      "Phalanx 3 digiti 5 Pedis",
+      "foot phalanx 5-3",
+      "Phalanx 3 digit 5"
+    ],
+    "typeKey": "paired",
+    "category": "bone"
+  },
+  {
+    "id": "cervical-1",
+    "ru": "Шейный позвонок 1",
+    "la": "Vertebra C1",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "C1"
+    ],
+    "modelNameCandidates": [
+      "Vertebra C1",
+      "C1",
+      "cervical-1"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "cervical-2",
+    "ru": "Шейный позвонок 2",
+    "la": "Vertebra C2",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "C2"
+    ],
+    "modelNameCandidates": [
+      "Vertebra C2",
+      "C2",
+      "cervical-2"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "cervical-3",
+    "ru": "Шейный позвонок 3",
+    "la": "Vertebra C3",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "C3"
+    ],
+    "modelNameCandidates": [
+      "Vertebra C3",
+      "C3",
+      "cervical-3"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "cervical-4",
+    "ru": "Шейный позвонок 4",
+    "la": "Vertebra C4",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "C4"
+    ],
+    "modelNameCandidates": [
+      "Vertebra C4",
+      "C4",
+      "cervical-4"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "cervical-5",
+    "ru": "Шейный позвонок 5",
+    "la": "Vertebra C5",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "C5"
+    ],
+    "modelNameCandidates": [
+      "Vertebra C5",
+      "C5",
+      "cervical-5"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "cervical-6",
+    "ru": "Шейный позвонок 6",
+    "la": "Vertebra C6",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "C6"
+    ],
+    "modelNameCandidates": [
+      "Vertebra C6",
+      "C6",
+      "cervical-6"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "cervical-7",
+    "ru": "Шейный позвонок 7",
+    "la": "Vertebra C7",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "C7"
+    ],
+    "modelNameCandidates": [
+      "Vertebra C7",
+      "C7",
+      "cervical-7"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "thoracic-1",
+    "ru": "Грудной позвонок 1",
+    "la": "Vertebra T1",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "T1"
+    ],
+    "modelNameCandidates": [
+      "Vertebra T1",
+      "T1",
+      "thoracic-1"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "thoracic-2",
+    "ru": "Грудной позвонок 2",
+    "la": "Vertebra T2",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "T2"
+    ],
+    "modelNameCandidates": [
+      "Vertebra T2",
+      "T2",
+      "thoracic-2"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "thoracic-3",
+    "ru": "Грудной позвонок 3",
+    "la": "Vertebra T3",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "T3"
+    ],
+    "modelNameCandidates": [
+      "Vertebra T3",
+      "T3",
+      "thoracic-3"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "thoracic-4",
+    "ru": "Грудной позвонок 4",
+    "la": "Vertebra T4",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "T4"
+    ],
+    "modelNameCandidates": [
+      "Vertebra T4",
+      "T4",
+      "thoracic-4"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "thoracic-5",
+    "ru": "Грудной позвонок 5",
+    "la": "Vertebra T5",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "T5"
+    ],
+    "modelNameCandidates": [
+      "Vertebra T5",
+      "T5",
+      "thoracic-5"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "thoracic-6",
+    "ru": "Грудной позвонок 6",
+    "la": "Vertebra T6",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "T6"
+    ],
+    "modelNameCandidates": [
+      "Vertebra T6",
+      "T6",
+      "thoracic-6"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "thoracic-7",
+    "ru": "Грудной позвонок 7",
+    "la": "Vertebra T7",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "T7"
+    ],
+    "modelNameCandidates": [
+      "Vertebra T7",
+      "T7",
+      "thoracic-7"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "thoracic-8",
+    "ru": "Грудной позвонок 8",
+    "la": "Vertebra T8",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "T8"
+    ],
+    "modelNameCandidates": [
+      "Vertebra T8",
+      "T8",
+      "thoracic-8"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "thoracic-9",
+    "ru": "Грудной позвонок 9",
+    "la": "Vertebra T9",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "T9"
+    ],
+    "modelNameCandidates": [
+      "Vertebra T9",
+      "T9",
+      "thoracic-9"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "thoracic-10",
+    "ru": "Грудной позвонок 10",
+    "la": "Vertebra T10",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "T10"
+    ],
+    "modelNameCandidates": [
+      "Vertebra T10",
+      "T10",
+      "thoracic-10"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "thoracic-11",
+    "ru": "Грудной позвонок 11",
+    "la": "Vertebra T11",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "T11"
+    ],
+    "modelNameCandidates": [
+      "Vertebra T11",
+      "T11",
+      "thoracic-11"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "thoracic-12",
+    "ru": "Грудной позвонок 12",
+    "la": "Vertebra T12",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "T12"
+    ],
+    "modelNameCandidates": [
+      "Vertebra T12",
+      "T12",
+      "thoracic-12"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "lumbar-1",
+    "ru": "Поясничный позвонок 1",
+    "la": "Vertebra L1",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "L1"
+    ],
+    "modelNameCandidates": [
+      "Vertebra L1",
+      "L1",
+      "lumbar-1"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "lumbar-2",
+    "ru": "Поясничный позвонок 2",
+    "la": "Vertebra L2",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "L2"
+    ],
+    "modelNameCandidates": [
+      "Vertebra L2",
+      "L2",
+      "lumbar-2"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "lumbar-3",
+    "ru": "Поясничный позвонок 3",
+    "la": "Vertebra L3",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "L3"
+    ],
+    "modelNameCandidates": [
+      "Vertebra L3",
+      "L3",
+      "lumbar-3"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "lumbar-4",
+    "ru": "Поясничный позвонок 4",
+    "la": "Vertebra L4",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "L4"
+    ],
+    "modelNameCandidates": [
+      "Vertebra L4",
+      "L4",
+      "lumbar-4"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  },
+  {
+    "id": "lumbar-5",
+    "ru": "Поясничный позвонок 5",
+    "la": "Vertebra L5",
+    "type": "непарная",
+    "description": "Отдельный позвонок соответствующего отдела позвоночника.",
+    "aliases": [
+      "L5"
+    ],
+    "modelNameCandidates": [
+      "Vertebra L5",
+      "L5",
+      "lumbar-5"
+    ],
+    "typeKey": "unpaired",
+    "category": "bone"
+  }
+]

@@ -1,0 +1,217 @@
+[
+  {
+    "id": "skull",
+    "ru": "Череп",
+    "children": [
+      "frontal",
+      "parietal",
+      "occipital",
+      "temporal",
+      "sphenoid",
+      "ethmoid",
+      "zygomatic",
+      "maxilla",
+      "mandible",
+      "palatine",
+      "nasal",
+      "lacrimal",
+      "vomer",
+      "inferior-nasal-concha"
+    ]
+  },
+  {
+    "id": "vertebral",
+    "ru": "Позвоночный столб",
+    "children": [
+      "vertebrae-cervical",
+      "vertebrae-thoracic",
+      "vertebrae-lumbar",
+      "sacrum",
+      "coccyx",
+      "atlas",
+      "axis",
+      "c7",
+      "t1",
+      "t12",
+      "l1",
+      "l5"
+    ]
+  },
+  {
+    "id": "thorax",
+    "ru": "Грудная клетка",
+    "children": [
+      "rib",
+      "sternum",
+      "manubrium",
+      "body-sternum",
+      "xiphoid"
+    ]
+  },
+  {
+    "id": "upper-limb",
+    "ru": "Верхняя конечность",
+    "children": [
+      "clavicle",
+      "scapula",
+      "humerus",
+      "radius",
+      "ulna",
+      "carpal-bones",
+      "metacarpals",
+      "phalanges-hand",
+      "scaphoid",
+      "lunate",
+      "triquetrum",
+      "pisiform",
+      "trapezium",
+      "trapezoid",
+      "capitate",
+      "hamate"
+    ]
+  },
+  {
+    "id": "pelvis",
+    "ru": "Таз",
+    "children": [
+      "pelvic-bone",
+      "ilium",
+      "ischium",
+      "pubis"
+    ]
+  },
+  {
+    "id": "lower-limb",
+    "ru": "Нижняя конечность",
+    "children": [
+      "femur",
+      "patella",
+      "tibia",
+      "fibula",
+      "tarsal-bones",
+      "metatarsals",
+      "phalanges-foot",
+      "talus",
+      "calcaneus",
+      "navicular-foot",
+      "cuboid",
+      "medial-cuneiform",
+      "intermediate-cuneiform",
+      "lateral-cuneiform"
+    ]
+  },
+  {
+    "id": "hyoid",
+    "ru": "Дополнительные кости",
+    "children": [
+      "hyoid"
+    ]
+  },
+  {
+    "id": "ribs",
+    "ru": "Грудная клетка — рёбра",
+    "children": [
+      "rib-1",
+      "rib-2",
+      "rib-3",
+      "rib-4",
+      "rib-5",
+      "rib-6",
+      "rib-7",
+      "rib-8",
+      "rib-9",
+      "rib-10",
+      "rib-11",
+      "rib-12"
+    ]
+  },
+  {
+    "id": "spine-detailed",
+    "ru": "Позвоночник — отдельные позвонки",
+    "children": [
+      "cervical-1",
+      "cervical-2",
+      "cervical-3",
+      "cervical-4",
+      "cervical-5",
+      "cervical-6",
+      "cervical-7",
+      "thoracic-1",
+      "thoracic-2",
+      "thoracic-3",
+      "thoracic-4",
+      "thoracic-5",
+      "thoracic-6",
+      "thoracic-7",
+      "thoracic-8",
+      "thoracic-9",
+      "thoracic-10",
+      "thoracic-11",
+      "thoracic-12",
+      "lumbar-1",
+      "lumbar-2",
+      "lumbar-3",
+      "lumbar-4",
+      "lumbar-5",
+      "atlas",
+      "axis",
+      "c7",
+      "t1",
+      "t12",
+      "l1",
+      "l5",
+      "sacrum",
+      "coccyx"
+    ]
+  },
+  {
+    "id": "hand-bones",
+    "ru": "Кисть — пястные и фаланги",
+    "children": [
+      "metacarpal-1",
+      "metacarpal-2",
+      "metacarpal-3",
+      "metacarpal-4",
+      "metacarpal-5",
+      "hand-phalanx-1-1",
+      "hand-phalanx-1-2",
+      "hand-phalanx-2-1",
+      "hand-phalanx-2-2",
+      "hand-phalanx-2-3",
+      "hand-phalanx-3-1",
+      "hand-phalanx-3-2",
+      "hand-phalanx-3-3",
+      "hand-phalanx-4-1",
+      "hand-phalanx-4-2",
+      "hand-phalanx-4-3",
+      "hand-phalanx-5-1",
+      "hand-phalanx-5-2",
+      "hand-phalanx-5-3"
+    ]
+  },
+  {
+    "id": "foot-bones",
+    "ru": "Стопа — плюсневые и фаланги",
+    "children": [
+      "metatarsal-1",
+      "metatarsal-2",
+      "metatarsal-3",
+      "metatarsal-4",
+      "metatarsal-5",
+      "foot-phalanx-1-1",
+      "foot-phalanx-1-2",
+      "foot-phalanx-2-1",
+      "foot-phalanx-2-2",
+      "foot-phalanx-2-3",
+      "foot-phalanx-3-1",
+      "foot-phalanx-3-2",
+      "foot-phalanx-3-3",
+      "foot-phalanx-4-1",
+      "foot-phalanx-4-2",
+      "foot-phalanx-4-3",
+      "foot-phalanx-5-1",
+      "foot-phalanx-5-2",
+      "foot-phalanx-5-3"
+    ]
+  }
+]

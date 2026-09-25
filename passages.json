@@ -1,0 +1,74 @@
+[
+  {
+    "id": "foramen-magnum",
+    "ru": "Большое затылочное отверстие",
+    "la": "Foramen magnum",
+    "entrance": "Внутренняя поверхность основания черепа.",
+    "exit": "Наружная поверхность основания черепа.",
+    "contents": "Продолговатый мозг/спинной мозг, оболочки, позвоночные артерии и корешки XI нерва.",
+    "category": "passage"
+  },
+  {
+    "id": "foramen-jugulare",
+    "ru": "Яремное отверстие",
+    "la": "Foramen jugulare",
+    "entrance": "Внутренняя поверхность основания черепа.",
+    "exit": "Наружная поверхность основания черепа.",
+    "contents": "N. glossopharyngeus (IX), n. vagus (X), n. accessorius (XI), синусы твёрдой мозговой оболочки и сосуды.",
+    "category": "passage"
+  },
+  {
+    "id": "foramen-ovale",
+    "ru": "Овальное отверстие",
+    "la": "Foramen ovale",
+    "entrance": "Средняя черепная ямка.",
+    "exit": "Подвисочная ямка.",
+    "contents": "N. mandibularis (V3), a. meningea accessoria и эмиссарная вена.",
+    "category": "passage"
+  },
+  {
+    "id": "foramen-spinosum",
+    "ru": "Остистое отверстие",
+    "la": "Foramen spinosum",
+    "entrance": "Средняя черепная ямка.",
+    "exit": "Подвисочная область.",
+    "contents": "A. meningea media, сопровождающие вены и менингеальная ветвь V3.",
+    "category": "passage"
+  },
+  {
+    "id": "foramen-rotundum",
+    "ru": "Круглое отверстие",
+    "la": "Foramen rotundum",
+    "entrance": "Средняя черепная ямка.",
+    "exit": "Крылонёбная ямка.",
+    "contents": "N. maxillaris (V2).",
+    "category": "passage"
+  },
+  {
+    "id": "superior-orbital-fissure",
+    "ru": "Верхняя глазничная щель",
+    "la": "Fissura orbitalis superior",
+    "entrance": "Средняя черепная ямка.",
+    "exit": "Орбита.",
+    "contents": "III, IV, V1, VI нервы и верхняя глазничная вена.",
+    "category": "passage"
+  },
+  {
+    "id": "inferior-orbital-fissure",
+    "ru": "Нижняя глазничная щель",
+    "la": "Fissura orbitalis inferior",
+    "entrance": "Орбита.",
+    "exit": "Крылонёбная и подвисочная ямки.",
+    "contents": "N. infraorbitalis, a./v. infraorbitalis и ветви V2.",
+    "category": "passage"
+  },
+  {
+    "id": "jugular-foramen",
+    "ru": "Внутренний слуховой проход",
+    "la": "Meatus acusticus internus",
+    "entrance": "Задняя поверхность пирамиды височной кости.",
+    "exit": "Внутреннее ухо и лицевой канал.",
+    "contents": "N. facialis (VII), n. vestibulocochlearis (VIII), a. labyrinthi.",
+    "category": "passage"
+  }
+]

@@ -1,0 +1,1874 @@
+[
+  {
+    "id": "humerus__caput_humeri",
+    "parentId": "humerus",
+    "ru": "Головка плечевой кости",
+    "la": "caput humeri",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "caput humeri",
+      "Головка плечевой кости",
+      "caput_humeri",
+      "caput-humeri"
+    ]
+  },
+  {
+    "id": "humerus__collum_anatomicum",
+    "parentId": "humerus",
+    "ru": "Анатомическая шейка",
+    "la": "collum anatomicum",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "collum anatomicum",
+      "Анатомическая шейка",
+      "collum_anatomicum",
+      "collum-anatomicum"
+    ]
+  },
+  {
+    "id": "humerus__tuberculum_majus",
+    "parentId": "humerus",
+    "ru": "Большой бугорок",
+    "la": "tuberculum majus",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "tuberculum majus",
+      "Большой бугорок",
+      "tuberculum_majus",
+      "tuberculum-majus"
+    ]
+  },
+  {
+    "id": "humerus__tuberculum_minus",
+    "parentId": "humerus",
+    "ru": "Малый бугорок",
+    "la": "tuberculum minus",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "tuberculum minus",
+      "Малый бугорок",
+      "tuberculum_minus",
+      "tuberculum-minus"
+    ]
+  },
+  {
+    "id": "humerus__sulcus_intertubercularis",
+    "parentId": "humerus",
+    "ru": "Межбугорковая борозда",
+    "la": "sulcus intertubercularis",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "sulcus intertubercularis",
+      "Межбугорковая борозда",
+      "sulcus_intertubercularis",
+      "sulcus-intertubercularis"
+    ]
+  },
+  {
+    "id": "humerus__collum_chirurgicum",
+    "parentId": "humerus",
+    "ru": "Хирургическая шейка",
+    "la": "collum chirurgicum",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "collum chirurgicum",
+      "Хирургическая шейка",
+      "collum_chirurgicum",
+      "collum-chirurgicum"
+    ]
+  },
+  {
+    "id": "humerus__corpus_humeri",
+    "parentId": "humerus",
+    "ru": "Тело плечевой кости",
+    "la": "corpus humeri",
+    "group": "Тело",
+    "modelNameCandidates": [
+      "corpus humeri",
+      "Тело плечевой кости",
+      "corpus_humeri",
+      "corpus-humeri"
+    ]
+  },
+  {
+    "id": "humerus__tuberositas_deltoidea",
+    "parentId": "humerus",
+    "ru": "Дельтовидная бугристость",
+    "la": "tuberositas deltoidea",
+    "group": "Тело",
+    "modelNameCandidates": [
+      "tuberositas deltoidea",
+      "Дельтовидная бугристость",
+      "tuberositas_deltoidea",
+      "tuberositas-deltoidea"
+    ]
+  },
+  {
+    "id": "humerus__sulcus_nervi_radialis",
+    "parentId": "humerus",
+    "ru": "Борозда лучевого нерва",
+    "la": "sulcus nervi radialis",
+    "group": "Тело",
+    "modelNameCandidates": [
+      "sulcus nervi radialis",
+      "Борозда лучевого нерва",
+      "sulcus_nervi_radialis",
+      "sulcus-nervi-radialis"
+    ]
+  },
+  {
+    "id": "humerus__trochlea_humeri",
+    "parentId": "humerus",
+    "ru": "Блок плечевой кости",
+    "la": "trochlea humeri",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "trochlea humeri",
+      "Блок плечевой кости",
+      "trochlea_humeri",
+      "trochlea-humeri"
+    ]
+  },
+  {
+    "id": "humerus__capitulum_humeri",
+    "parentId": "humerus",
+    "ru": "Головочка",
+    "la": "capitulum humeri",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "capitulum humeri",
+      "Головочка",
+      "capitulum_humeri",
+      "capitulum-humeri"
+    ]
+  },
+  {
+    "id": "humerus__epicondylus_medialis",
+    "parentId": "humerus",
+    "ru": "Медиальный надмыщелок",
+    "la": "epicondylus medialis",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "epicondylus medialis",
+      "Медиальный надмыщелок",
+      "epicondylus_medialis",
+      "epicondylus-medialis"
+    ]
+  },
+  {
+    "id": "humerus__epicondylus_lateralis",
+    "parentId": "humerus",
+    "ru": "Латеральный надмыщелок",
+    "la": "epicondylus lateralis",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "epicondylus lateralis",
+      "Латеральный надмыщелок",
+      "epicondylus_lateralis",
+      "epicondylus-lateralis"
+    ]
+  },
+  {
+    "id": "humerus__fossa_olecrani",
+    "parentId": "humerus",
+    "ru": "Ямка локтевого отростка",
+    "la": "fossa olecrani",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "fossa olecrani",
+      "Ямка локтевого отростка",
+      "fossa_olecrani",
+      "fossa-olecrani"
+    ]
+  },
+  {
+    "id": "humerus__fossa_coronoidea",
+    "parentId": "humerus",
+    "ru": "Венечная ямка",
+    "la": "fossa coronoidea",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "fossa coronoidea",
+      "Венечная ямка",
+      "fossa_coronoidea",
+      "fossa-coronoidea"
+    ]
+  },
+  {
+    "id": "humerus__fossa_radialis",
+    "parentId": "humerus",
+    "ru": "Лучевая ямка",
+    "la": "fossa radialis",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "fossa radialis",
+      "Лучевая ямка",
+      "fossa_radialis",
+      "fossa-radialis"
+    ]
+  },
+  {
+    "id": "radius__caput_radii",
+    "parentId": "radius",
+    "ru": "Головка лучевой кости",
+    "la": "caput radii",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "caput radii",
+      "Головка лучевой кости",
+      "caput_radii",
+      "caput-radii"
+    ]
+  },
+  {
+    "id": "radius__collum_radii",
+    "parentId": "radius",
+    "ru": "Шейка",
+    "la": "collum radii",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "collum radii",
+      "Шейка",
+      "collum_radii",
+      "collum-radii"
+    ]
+  },
+  {
+    "id": "radius__tuberositas_radii",
+    "parentId": "radius",
+    "ru": "Бугристость лучевой кости",
+    "la": "tuberositas radii",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "tuberositas radii",
+      "Бугристость лучевой кости",
+      "tuberositas_radii",
+      "tuberositas-radii"
+    ]
+  },
+  {
+    "id": "radius__corpus_radii",
+    "parentId": "radius",
+    "ru": "Тело",
+    "la": "corpus radii",
+    "group": "Тело",
+    "modelNameCandidates": [
+      "corpus radii",
+      "Тело",
+      "corpus_radii",
+      "corpus-radii"
+    ]
+  },
+  {
+    "id": "radius__margo_interosseus",
+    "parentId": "radius",
+    "ru": "Межкостный край",
+    "la": "margo interosseus",
+    "group": "Тело",
+    "modelNameCandidates": [
+      "margo interosseus",
+      "Межкостный край",
+      "margo_interosseus",
+      "margo-interosseus"
+    ]
+  },
+  {
+    "id": "radius__processus_styloideus_radii",
+    "parentId": "radius",
+    "ru": "Шиловидный отросток",
+    "la": "processus styloideus radii",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "processus styloideus radii",
+      "Шиловидный отросток",
+      "processus_styloideus_radii",
+      "processus-styloideus-radii"
+    ]
+  },
+  {
+    "id": "radius__incisura_ulnaris",
+    "parentId": "radius",
+    "ru": "Локтевая вырезка",
+    "la": "incisura ulnaris",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "incisura ulnaris",
+      "Локтевая вырезка",
+      "incisura_ulnaris",
+      "incisura-ulnaris"
+    ]
+  },
+  {
+    "id": "radius__facies_articularis_carpalis",
+    "parentId": "radius",
+    "ru": "Запястная суставная поверхность",
+    "la": "facies articularis carpalis",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "facies articularis carpalis",
+      "Запястная суставная поверхность",
+      "facies_articularis_carpalis",
+      "facies-articularis-carpalis"
+    ]
+  },
+  {
+    "id": "radius__tuberculum_dorsale",
+    "parentId": "radius",
+    "ru": "Бугорок Листера",
+    "la": "tuberculum dorsale",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "tuberculum dorsale",
+      "Бугорок Листера",
+      "tuberculum_dorsale",
+      "tuberculum-dorsale"
+    ]
+  },
+  {
+    "id": "ulna__olecranon",
+    "parentId": "ulna",
+    "ru": "Локтевой отросток",
+    "la": "olecranon",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "olecranon",
+      "Локтевой отросток",
+      "olecranon",
+      "olecranon"
+    ]
+  },
+  {
+    "id": "ulna__processus_coronoideus",
+    "parentId": "ulna",
+    "ru": "Венечный отросток",
+    "la": "processus coronoideus",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "processus coronoideus",
+      "Венечный отросток",
+      "processus_coronoideus",
+      "processus-coronoideus"
+    ]
+  },
+  {
+    "id": "ulna__incisura_trochlearis",
+    "parentId": "ulna",
+    "ru": "Блоковидная вырезка",
+    "la": "incisura trochlearis",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "incisura trochlearis",
+      "Блоковидная вырезка",
+      "incisura_trochlearis",
+      "incisura-trochlearis"
+    ]
+  },
+  {
+    "id": "ulna__incisura_radialis",
+    "parentId": "ulna",
+    "ru": "Лучевая вырезка",
+    "la": "incisura radialis",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "incisura radialis",
+      "Лучевая вырезка",
+      "incisura_radialis",
+      "incisura-radialis"
+    ]
+  },
+  {
+    "id": "ulna__corpus_ulnae",
+    "parentId": "ulna",
+    "ru": "Тело",
+    "la": "corpus ulnae",
+    "group": "Тело",
+    "modelNameCandidates": [
+      "corpus ulnae",
+      "Тело",
+      "corpus_ulnae",
+      "corpus-ulnae"
+    ]
+  },
+  {
+    "id": "ulna__margo_interosseus",
+    "parentId": "ulna",
+    "ru": "Межкостный край",
+    "la": "margo interosseus",
+    "group": "Тело",
+    "modelNameCandidates": [
+      "margo interosseus",
+      "Межкостный край",
+      "margo_interosseus",
+      "margo-interosseus"
+    ]
+  },
+  {
+    "id": "ulna__caput_ulnae",
+    "parentId": "ulna",
+    "ru": "Головка локтевой кости",
+    "la": "caput ulnae",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "caput ulnae",
+      "Головка локтевой кости",
+      "caput_ulnae",
+      "caput-ulnae"
+    ]
+  },
+  {
+    "id": "ulna__processus_styloideus_ulnae",
+    "parentId": "ulna",
+    "ru": "Шиловидный отросток",
+    "la": "processus styloideus ulnae",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "processus styloideus ulnae",
+      "Шиловидный отросток",
+      "processus_styloideus_ulnae",
+      "processus-styloideus-ulnae"
+    ]
+  },
+  {
+    "id": "femur__caput_femoris",
+    "parentId": "femur",
+    "ru": "Головка",
+    "la": "caput femoris",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "caput femoris",
+      "Головка",
+      "caput_femoris",
+      "caput-femoris"
+    ]
+  },
+  {
+    "id": "femur__collum_femoris",
+    "parentId": "femur",
+    "ru": "Шейка",
+    "la": "collum femoris",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "collum femoris",
+      "Шейка",
+      "collum_femoris",
+      "collum-femoris"
+    ]
+  },
+  {
+    "id": "femur__trochanter_major",
+    "parentId": "femur",
+    "ru": "Большой вертел",
+    "la": "trochanter major",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "trochanter major",
+      "Большой вертел",
+      "trochanter_major",
+      "trochanter-major"
+    ]
+  },
+  {
+    "id": "femur__trochanter_minor",
+    "parentId": "femur",
+    "ru": "Малый вертел",
+    "la": "trochanter minor",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "trochanter minor",
+      "Малый вертел",
+      "trochanter_minor",
+      "trochanter-minor"
+    ]
+  },
+  {
+    "id": "femur__linea_intertrochanterica",
+    "parentId": "femur",
+    "ru": "Межвертельная линия",
+    "la": "linea intertrochanterica",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "linea intertrochanterica",
+      "Межвертельная линия",
+      "linea_intertrochanterica",
+      "linea-intertrochanterica"
+    ]
+  },
+  {
+    "id": "femur__crista_intertrochanterica",
+    "parentId": "femur",
+    "ru": "Межвертельный гребень",
+    "la": "crista intertrochanterica",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "crista intertrochanterica",
+      "Межвертельный гребень",
+      "crista_intertrochanterica",
+      "crista-intertrochanterica"
+    ]
+  },
+  {
+    "id": "femur__corpus_femoris",
+    "parentId": "femur",
+    "ru": "Тело",
+    "la": "corpus femoris",
+    "group": "Тело",
+    "modelNameCandidates": [
+      "corpus femoris",
+      "Тело",
+      "corpus_femoris",
+      "corpus-femoris"
+    ]
+  },
+  {
+    "id": "femur__linea_aspera",
+    "parentId": "femur",
+    "ru": "Шероховатая линия",
+    "la": "linea aspera",
+    "group": "Тело",
+    "modelNameCandidates": [
+      "linea aspera",
+      "Шероховатая линия",
+      "linea_aspera",
+      "linea-aspera"
+    ]
+  },
+  {
+    "id": "femur__condylus_medialis",
+    "parentId": "femur",
+    "ru": "Медиальный мыщелок",
+    "la": "condylus medialis",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "condylus medialis",
+      "Медиальный мыщелок",
+      "condylus_medialis",
+      "condylus-medialis"
+    ]
+  },
+  {
+    "id": "femur__condylus_lateralis",
+    "parentId": "femur",
+    "ru": "Латеральный мыщелок",
+    "la": "condylus lateralis",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "condylus lateralis",
+      "Латеральный мыщелок",
+      "condylus_lateralis",
+      "condylus-lateralis"
+    ]
+  },
+  {
+    "id": "femur__epicondylus_medialis",
+    "parentId": "femur",
+    "ru": "Медиальный надмыщелок",
+    "la": "epicondylus medialis",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "epicondylus medialis",
+      "Медиальный надмыщелок",
+      "epicondylus_medialis",
+      "epicondylus-medialis"
+    ]
+  },
+  {
+    "id": "femur__epicondylus_lateralis",
+    "parentId": "femur",
+    "ru": "Латеральный надмыщелок",
+    "la": "epicondylus lateralis",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "epicondylus lateralis",
+      "Латеральный надмыщелок",
+      "epicondylus_lateralis",
+      "epicondylus-lateralis"
+    ]
+  },
+  {
+    "id": "femur__fossa_intercondylaris",
+    "parentId": "femur",
+    "ru": "Межмыщелковая ямка",
+    "la": "fossa intercondylaris",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "fossa intercondylaris",
+      "Межмыщелковая ямка",
+      "fossa_intercondylaris",
+      "fossa-intercondylaris"
+    ]
+  },
+  {
+    "id": "femur__facies_patellaris",
+    "parentId": "femur",
+    "ru": "Надколенниковая поверхность",
+    "la": "facies patellaris",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "facies patellaris",
+      "Надколенниковая поверхность",
+      "facies_patellaris",
+      "facies-patellaris"
+    ]
+  },
+  {
+    "id": "tibia__condylus_medialis",
+    "parentId": "tibia",
+    "ru": "Медиальный мыщелок",
+    "la": "condylus medialis",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "condylus medialis",
+      "Медиальный мыщелок",
+      "condylus_medialis",
+      "condylus-medialis"
+    ]
+  },
+  {
+    "id": "tibia__condylus_lateralis",
+    "parentId": "tibia",
+    "ru": "Латеральный мыщелок",
+    "la": "condylus lateralis",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "condylus lateralis",
+      "Латеральный мыщелок",
+      "condylus_lateralis",
+      "condylus-lateralis"
+    ]
+  },
+  {
+    "id": "tibia__eminentia_intercondylaris",
+    "parentId": "tibia",
+    "ru": "Межмыщелковое возвышение",
+    "la": "eminentia intercondylaris",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "eminentia intercondylaris",
+      "Межмыщелковое возвышение",
+      "eminentia_intercondylaris",
+      "eminentia-intercondylaris"
+    ]
+  },
+  {
+    "id": "tibia__tuberositas_tibiae",
+    "parentId": "tibia",
+    "ru": "Бугристость большеберцовой кости",
+    "la": "tuberositas tibiae",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "tuberositas tibiae",
+      "Бугристость большеберцовой кости",
+      "tuberositas_tibiae",
+      "tuberositas-tibiae"
+    ]
+  },
+  {
+    "id": "tibia__corpus_tibiae",
+    "parentId": "tibia",
+    "ru": "Тело",
+    "la": "corpus tibiae",
+    "group": "Тело",
+    "modelNameCandidates": [
+      "corpus tibiae",
+      "Тело",
+      "corpus_tibiae",
+      "corpus-tibiae"
+    ]
+  },
+  {
+    "id": "tibia__margo_anterior",
+    "parentId": "tibia",
+    "ru": "Передний край",
+    "la": "margo anterior",
+    "group": "Тело",
+    "modelNameCandidates": [
+      "margo anterior",
+      "Передний край",
+      "margo_anterior",
+      "margo-anterior"
+    ]
+  },
+  {
+    "id": "tibia__margo_interosseus",
+    "parentId": "tibia",
+    "ru": "Межкостный край",
+    "la": "margo interosseus",
+    "group": "Тело",
+    "modelNameCandidates": [
+      "margo interosseus",
+      "Межкостный край",
+      "margo_interosseus",
+      "margo-interosseus"
+    ]
+  },
+  {
+    "id": "tibia__malleolus_medialis",
+    "parentId": "tibia",
+    "ru": "Медиальная лодыжка",
+    "la": "malleolus medialis",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "malleolus medialis",
+      "Медиальная лодыжка",
+      "malleolus_medialis",
+      "malleolus-medialis"
+    ]
+  },
+  {
+    "id": "tibia__incisura_fibularis",
+    "parentId": "tibia",
+    "ru": "Малоберцовая вырезка",
+    "la": "incisura fibularis",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "incisura fibularis",
+      "Малоберцовая вырезка",
+      "incisura_fibularis",
+      "incisura-fibularis"
+    ]
+  },
+  {
+    "id": "tibia__facies_articularis_inferior",
+    "parentId": "tibia",
+    "ru": "Нижняя суставная поверхность",
+    "la": "facies articularis inferior",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "facies articularis inferior",
+      "Нижняя суставная поверхность",
+      "facies_articularis_inferior",
+      "facies-articularis-inferior"
+    ]
+  },
+  {
+    "id": "fibula__caput_fibulae",
+    "parentId": "fibula",
+    "ru": "Головка",
+    "la": "caput fibulae",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "caput fibulae",
+      "Головка",
+      "caput_fibulae",
+      "caput-fibulae"
+    ]
+  },
+  {
+    "id": "fibula__apex_capitis_fibulae",
+    "parentId": "fibula",
+    "ru": "Верхушка головки",
+    "la": "apex capitis fibulae",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "apex capitis fibulae",
+      "Верхушка головки",
+      "apex_capitis_fibulae",
+      "apex-capitis-fibulae"
+    ]
+  },
+  {
+    "id": "fibula__collum_fibulae",
+    "parentId": "fibula",
+    "ru": "Шейка",
+    "la": "collum fibulae",
+    "group": "Проксимальный конец",
+    "modelNameCandidates": [
+      "collum fibulae",
+      "Шейка",
+      "collum_fibulae",
+      "collum-fibulae"
+    ]
+  },
+  {
+    "id": "fibula__corpus_fibulae",
+    "parentId": "fibula",
+    "ru": "Тело",
+    "la": "corpus fibulae",
+    "group": "Тело",
+    "modelNameCandidates": [
+      "corpus fibulae",
+      "Тело",
+      "corpus_fibulae",
+      "corpus-fibulae"
+    ]
+  },
+  {
+    "id": "fibula__margo_interosseus",
+    "parentId": "fibula",
+    "ru": "Межкостный край",
+    "la": "margo interosseus",
+    "group": "Тело",
+    "modelNameCandidates": [
+      "margo interosseus",
+      "Межкостный край",
+      "margo_interosseus",
+      "margo-interosseus"
+    ]
+  },
+  {
+    "id": "fibula__malleolus_lateralis",
+    "parentId": "fibula",
+    "ru": "Латеральная лодыжка",
+    "la": "malleolus lateralis",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "malleolus lateralis",
+      "Латеральная лодыжка",
+      "malleolus_lateralis",
+      "malleolus-lateralis"
+    ]
+  },
+  {
+    "id": "fibula__fossa_malleoli_lateralis",
+    "parentId": "fibula",
+    "ru": "Ямка латеральной лодыжки",
+    "la": "fossa malleoli lateralis",
+    "group": "Дистальный конец",
+    "modelNameCandidates": [
+      "fossa malleoli lateralis",
+      "Ямка латеральной лодыжки",
+      "fossa_malleoli_lateralis",
+      "fossa-malleoli-lateralis"
+    ]
+  },
+  {
+    "id": "scapula__facies_costalis",
+    "parentId": "scapula",
+    "ru": "Рёберная поверхность",
+    "la": "facies costalis",
+    "group": "Поверхности и края",
+    "modelNameCandidates": [
+      "facies costalis",
+      "Рёберная поверхность",
+      "facies_costalis",
+      "facies-costalis"
+    ]
+  },
+  {
+    "id": "scapula__fossa_subscapularis",
+    "parentId": "scapula",
+    "ru": "Подлопаточная ямка",
+    "la": "fossa subscapularis",
+    "group": "Поверхности и края",
+    "modelNameCandidates": [
+      "fossa subscapularis",
+      "Подлопаточная ямка",
+      "fossa_subscapularis",
+      "fossa-subscapularis"
+    ]
+  },
+  {
+    "id": "scapula__facies_posterior",
+    "parentId": "scapula",
+    "ru": "Задняя поверхность",
+    "la": "facies posterior",
+    "group": "Поверхности и края",
+    "modelNameCandidates": [
+      "facies posterior",
+      "Задняя поверхность",
+      "facies_posterior",
+      "facies-posterior"
+    ]
+  },
+  {
+    "id": "scapula__spina_scapulae",
+    "parentId": "scapula",
+    "ru": "Ость лопатки",
+    "la": "spina scapulae",
+    "group": "Поверхности и края",
+    "modelNameCandidates": [
+      "spina scapulae",
+      "Ость лопатки",
+      "spina_scapulae",
+      "spina-scapulae"
+    ]
+  },
+  {
+    "id": "scapula__acromion",
+    "parentId": "scapula",
+    "ru": "Акромион",
+    "la": "acromion",
+    "group": "Отростки",
+    "modelNameCandidates": [
+      "acromion",
+      "Акромион",
+      "acromion",
+      "acromion"
+    ]
+  },
+  {
+    "id": "scapula__processus_coracoideus",
+    "parentId": "scapula",
+    "ru": "Клювовидный отросток",
+    "la": "processus coracoideus",
+    "group": "Отростки",
+    "modelNameCandidates": [
+      "processus coracoideus",
+      "Клювовидный отросток",
+      "processus_coracoideus",
+      "processus-coracoideus"
+    ]
+  },
+  {
+    "id": "scapula__cavitas_glenoidalis",
+    "parentId": "scapula",
+    "ru": "Суставная впадина",
+    "la": "cavitas glenoidalis",
+    "group": "Суставная область",
+    "modelNameCandidates": [
+      "cavitas glenoidalis",
+      "Суставная впадина",
+      "cavitas_glenoidalis",
+      "cavitas-glenoidalis"
+    ]
+  },
+  {
+    "id": "scapula__tuberculum_supraglenoidale",
+    "parentId": "scapula",
+    "ru": "Надсуставной бугорок",
+    "la": "tuberculum supraglenoidale",
+    "group": "Суставная область",
+    "modelNameCandidates": [
+      "tuberculum supraglenoidale",
+      "Надсуставной бугорок",
+      "tuberculum_supraglenoidale",
+      "tuberculum-supraglenoidale"
+    ]
+  },
+  {
+    "id": "scapula__tuberculum_infraglenoidale",
+    "parentId": "scapula",
+    "ru": "Подсуставной бугорок",
+    "la": "tuberculum infraglenoidale",
+    "group": "Суставная область",
+    "modelNameCandidates": [
+      "tuberculum infraglenoidale",
+      "Подсуставной бугорок",
+      "tuberculum_infraglenoidale",
+      "tuberculum-infraglenoidale"
+    ]
+  },
+  {
+    "id": "clavicle__extremitas_sternalis",
+    "parentId": "clavicle",
+    "ru": "Грудинный конец",
+    "la": "extremitas sternalis",
+    "group": "Концы",
+    "modelNameCandidates": [
+      "extremitas sternalis",
+      "Грудинный конец",
+      "extremitas_sternalis",
+      "extremitas-sternalis"
+    ]
+  },
+  {
+    "id": "clavicle__extremitas_acromialis",
+    "parentId": "clavicle",
+    "ru": "Акромиальный конец",
+    "la": "extremitas acromialis",
+    "group": "Концы",
+    "modelNameCandidates": [
+      "extremitas acromialis",
+      "Акромиальный конец",
+      "extremitas_acromialis",
+      "extremitas-acromialis"
+    ]
+  },
+  {
+    "id": "clavicle__corpus_claviculae",
+    "parentId": "clavicle",
+    "ru": "Тело ключицы",
+    "la": "corpus claviculae",
+    "group": "Тело",
+    "modelNameCandidates": [
+      "corpus claviculae",
+      "Тело ключицы",
+      "corpus_claviculae",
+      "corpus-claviculae"
+    ]
+  },
+  {
+    "id": "clavicle__tuberculum_conoideum",
+    "parentId": "clavicle",
+    "ru": "Конический бугорок",
+    "la": "tuberculum conoideum",
+    "group": "Тело",
+    "modelNameCandidates": [
+      "tuberculum conoideum",
+      "Конический бугорок",
+      "tuberculum_conoideum",
+      "tuberculum-conoideum"
+    ]
+  },
+  {
+    "id": "clavicle__linea_trapezoidea",
+    "parentId": "clavicle",
+    "ru": "Трапециевидная линия",
+    "la": "linea trapezoidea",
+    "group": "Тело",
+    "modelNameCandidates": [
+      "linea trapezoidea",
+      "Трапециевидная линия",
+      "linea_trapezoidea",
+      "linea-trapezoidea"
+    ]
+  },
+  {
+    "id": "clavicle__sulcus_musculi_subclavii",
+    "parentId": "clavicle",
+    "ru": "Подключичная борозда",
+    "la": "sulcus musculi subclavii",
+    "group": "Тело",
+    "modelNameCandidates": [
+      "sulcus musculi subclavii",
+      "Подключичная борозда",
+      "sulcus_musculi_subclavii",
+      "sulcus-musculi-subclavii"
+    ]
+  },
+  {
+    "id": "sternum__manubrium_sterni",
+    "parentId": "sternum",
+    "ru": "Рукоятка",
+    "la": "manubrium sterni",
+    "group": "Части",
+    "modelNameCandidates": [
+      "manubrium sterni",
+      "Рукоятка",
+      "manubrium_sterni",
+      "manubrium-sterni"
+    ]
+  },
+  {
+    "id": "sternum__corpus_sterni",
+    "parentId": "sternum",
+    "ru": "Тело",
+    "la": "corpus sterni",
+    "group": "Части",
+    "modelNameCandidates": [
+      "corpus sterni",
+      "Тело",
+      "corpus_sterni",
+      "corpus-sterni"
+    ]
+  },
+  {
+    "id": "sternum__processus_xiphoideus",
+    "parentId": "sternum",
+    "ru": "Мечевидный отросток",
+    "la": "processus xiphoideus",
+    "group": "Части",
+    "modelNameCandidates": [
+      "processus xiphoideus",
+      "Мечевидный отросток",
+      "processus_xiphoideus",
+      "processus-xiphoideus"
+    ]
+  },
+  {
+    "id": "sternum__incisura_jugularis",
+    "parentId": "sternum",
+    "ru": "Яремная вырезка",
+    "la": "incisura jugularis",
+    "group": "Ориентиры",
+    "modelNameCandidates": [
+      "incisura jugularis",
+      "Яремная вырезка",
+      "incisura_jugularis",
+      "incisura-jugularis"
+    ]
+  },
+  {
+    "id": "sternum__incisurae_claviculares",
+    "parentId": "sternum",
+    "ru": "Ключичные вырезки",
+    "la": "incisurae claviculares",
+    "group": "Ориентиры",
+    "modelNameCandidates": [
+      "incisurae claviculares",
+      "Ключичные вырезки",
+      "incisurae_claviculares",
+      "incisurae-claviculares"
+    ]
+  },
+  {
+    "id": "sternum__angulus_sterni",
+    "parentId": "sternum",
+    "ru": "Угол грудины",
+    "la": "angulus sterni",
+    "group": "Ориентиры",
+    "modelNameCandidates": [
+      "angulus sterni",
+      "Угол грудины",
+      "angulus_sterni",
+      "angulus-sterni"
+    ]
+  },
+  {
+    "id": "temporal__pars_squamosa",
+    "parentId": "temporal",
+    "ru": "Чешуйчатая часть",
+    "la": "pars squamosa",
+    "group": "Части",
+    "modelNameCandidates": [
+      "pars squamosa",
+      "Чешуйчатая часть",
+      "pars_squamosa",
+      "pars-squamosa"
+    ]
+  },
+  {
+    "id": "temporal__pars_petrosa",
+    "parentId": "temporal",
+    "ru": "Каменистая часть",
+    "la": "pars petrosa",
+    "group": "Части",
+    "modelNameCandidates": [
+      "pars petrosa",
+      "Каменистая часть",
+      "pars_petrosa",
+      "pars-petrosa"
+    ]
+  },
+  {
+    "id": "temporal__pars_mastoidea",
+    "parentId": "temporal",
+    "ru": "Сосцевидная часть",
+    "la": "pars mastoidea",
+    "group": "Части",
+    "modelNameCandidates": [
+      "pars mastoidea",
+      "Сосцевидная часть",
+      "pars_mastoidea",
+      "pars-mastoidea"
+    ]
+  },
+  {
+    "id": "temporal__pars_tympanica",
+    "parentId": "temporal",
+    "ru": "Барабанная часть",
+    "la": "pars tympanica",
+    "group": "Части",
+    "modelNameCandidates": [
+      "pars tympanica",
+      "Барабанная часть",
+      "pars_tympanica",
+      "pars-tympanica"
+    ]
+  },
+  {
+    "id": "temporal__processus_styloideus",
+    "parentId": "temporal",
+    "ru": "Шиловидный отросток",
+    "la": "processus styloideus",
+    "group": "Части",
+    "modelNameCandidates": [
+      "processus styloideus",
+      "Шиловидный отросток",
+      "processus_styloideus",
+      "processus-styloideus"
+    ]
+  },
+  {
+    "id": "temporal__fossa_mandibularis",
+    "parentId": "temporal",
+    "ru": "Нижнечелюстная ямка",
+    "la": "fossa mandibularis",
+    "group": "Ключевые образования",
+    "modelNameCandidates": [
+      "fossa mandibularis",
+      "Нижнечелюстная ямка",
+      "fossa_mandibularis",
+      "fossa-mandibularis"
+    ]
+  },
+  {
+    "id": "temporal__processus_zygomaticus",
+    "parentId": "temporal",
+    "ru": "Скуловой отросток",
+    "la": "processus zygomaticus",
+    "group": "Ключевые образования",
+    "modelNameCandidates": [
+      "processus zygomaticus",
+      "Скуловой отросток",
+      "processus_zygomaticus",
+      "processus-zygomaticus"
+    ]
+  },
+  {
+    "id": "temporal__meatus_acusticus_internus",
+    "parentId": "temporal",
+    "ru": "Внутренний слуховой проход",
+    "la": "meatus acusticus internus",
+    "group": "Ключевые образования",
+    "modelNameCandidates": [
+      "meatus acusticus internus",
+      "Внутренний слуховой проход",
+      "meatus_acusticus_internus",
+      "meatus-acusticus-internus"
+    ]
+  },
+  {
+    "id": "temporal__canalis_caroticus",
+    "parentId": "temporal",
+    "ru": "Сонный канал",
+    "la": "canalis caroticus",
+    "group": "Ключевые образования",
+    "modelNameCandidates": [
+      "canalis caroticus",
+      "Сонный канал",
+      "canalis_caroticus",
+      "canalis-caroticus"
+    ]
+  },
+  {
+    "id": "temporal__canalis_facialis",
+    "parentId": "temporal",
+    "ru": "Лицевой канал",
+    "la": "canalis facialis",
+    "group": "Ключевые образования",
+    "modelNameCandidates": [
+      "canalis facialis",
+      "Лицевой канал",
+      "canalis_facialis",
+      "canalis-facialis"
+    ]
+  },
+  {
+    "id": "frontal__squama_frontalis",
+    "parentId": "frontal",
+    "ru": "Лобная чешуя",
+    "la": "squama frontalis",
+    "group": "Части",
+    "modelNameCandidates": [
+      "squama frontalis",
+      "Лобная чешуя",
+      "squama_frontalis",
+      "squama-frontalis"
+    ]
+  },
+  {
+    "id": "frontal__pars_orbitalis",
+    "parentId": "frontal",
+    "ru": "Глазничная часть",
+    "la": "pars orbitalis",
+    "group": "Части",
+    "modelNameCandidates": [
+      "pars orbitalis",
+      "Глазничная часть",
+      "pars_orbitalis",
+      "pars-orbitalis"
+    ]
+  },
+  {
+    "id": "frontal__pars_nasalis",
+    "parentId": "frontal",
+    "ru": "Носовая часть",
+    "la": "pars nasalis",
+    "group": "Части",
+    "modelNameCandidates": [
+      "pars nasalis",
+      "Носовая часть",
+      "pars_nasalis",
+      "pars-nasalis"
+    ]
+  },
+  {
+    "id": "frontal__arcus_superciliaris",
+    "parentId": "frontal",
+    "ru": "Надбровная дуга",
+    "la": "arcus superciliaris",
+    "group": "Ориентиры",
+    "modelNameCandidates": [
+      "arcus superciliaris",
+      "Надбровная дуга",
+      "arcus_superciliaris",
+      "arcus-superciliaris"
+    ]
+  },
+  {
+    "id": "frontal__foramen_supraorbitale",
+    "parentId": "frontal",
+    "ru": "Надглазничное отверстие",
+    "la": "foramen supraorbitale",
+    "group": "Ориентиры",
+    "modelNameCandidates": [
+      "foramen supraorbitale",
+      "Надглазничное отверстие",
+      "foramen_supraorbitale",
+      "foramen-supraorbitale"
+    ]
+  },
+  {
+    "id": "frontal__glabella",
+    "parentId": "frontal",
+    "ru": "Глабелла",
+    "la": "glabella",
+    "group": "Ориентиры",
+    "modelNameCandidates": [
+      "glabella",
+      "Глабелла",
+      "glabella",
+      "glabella"
+    ]
+  },
+  {
+    "id": "frontal__sinus_frontalis",
+    "parentId": "frontal",
+    "ru": "Лобная пазуха",
+    "la": "sinus frontalis",
+    "group": "Ориентиры",
+    "modelNameCandidates": [
+      "sinus frontalis",
+      "Лобная пазуха",
+      "sinus_frontalis",
+      "sinus-frontalis"
+    ]
+  },
+  {
+    "id": "occipital__pars_basilaris",
+    "parentId": "occipital",
+    "ru": "Основная часть",
+    "la": "pars basilaris",
+    "group": "Части",
+    "modelNameCandidates": [
+      "pars basilaris",
+      "Основная часть",
+      "pars_basilaris",
+      "pars-basilaris"
+    ]
+  },
+  {
+    "id": "occipital__pars_lateralis",
+    "parentId": "occipital",
+    "ru": "Латеральная часть",
+    "la": "pars lateralis",
+    "group": "Части",
+    "modelNameCandidates": [
+      "pars lateralis",
+      "Латеральная часть",
+      "pars_lateralis",
+      "pars-lateralis"
+    ]
+  },
+  {
+    "id": "occipital__squama_occipitalis",
+    "parentId": "occipital",
+    "ru": "Чешуя",
+    "la": "squama occipitalis",
+    "group": "Части",
+    "modelNameCandidates": [
+      "squama occipitalis",
+      "Чешуя",
+      "squama_occipitalis",
+      "squama-occipitalis"
+    ]
+  },
+  {
+    "id": "occipital__foramen_magnum",
+    "parentId": "occipital",
+    "ru": "Большое отверстие",
+    "la": "foramen magnum",
+    "group": "Ориентиры",
+    "modelNameCandidates": [
+      "foramen magnum",
+      "Большое отверстие",
+      "foramen_magnum",
+      "foramen-magnum"
+    ]
+  },
+  {
+    "id": "occipital__condylus_occipitalis",
+    "parentId": "occipital",
+    "ru": "Затылочный мыщелок",
+    "la": "condylus occipitalis",
+    "group": "Ориентиры",
+    "modelNameCandidates": [
+      "condylus occipitalis",
+      "Затылочный мыщелок",
+      "condylus_occipitalis",
+      "condylus-occipitalis"
+    ]
+  },
+  {
+    "id": "occipital__protuberantia_occipitalis_externa",
+    "parentId": "occipital",
+    "ru": "Наружный затылочный выступ",
+    "la": "protuberantia occipitalis externa",
+    "group": "Ориентиры",
+    "modelNameCandidates": [
+      "protuberantia occipitalis externa",
+      "Наружный затылочный выступ",
+      "protuberantia_occipitalis_externa",
+      "protuberantia-occipitalis-externa"
+    ]
+  },
+  {
+    "id": "occipital__canalis_nervi_hypoglossi",
+    "parentId": "occipital",
+    "ru": "Канал подъязычного нерва",
+    "la": "canalis nervi hypoglossi",
+    "group": "Ориентиры",
+    "modelNameCandidates": [
+      "canalis nervi hypoglossi",
+      "Канал подъязычного нерва",
+      "canalis_nervi_hypoglossi",
+      "canalis-nervi-hypoglossi"
+    ]
+  },
+  {
+    "id": "parietal__facies_externa",
+    "parentId": "parietal",
+    "ru": "Наружная поверхность",
+    "la": "facies externa",
+    "group": "Поверхности",
+    "modelNameCandidates": [
+      "facies externa",
+      "Наружная поверхность",
+      "facies_externa",
+      "facies-externa"
+    ]
+  },
+  {
+    "id": "parietal__facies_interna",
+    "parentId": "parietal",
+    "ru": "Внутренняя поверхность",
+    "la": "facies interna",
+    "group": "Поверхности",
+    "modelNameCandidates": [
+      "facies interna",
+      "Внутренняя поверхность",
+      "facies_interna",
+      "facies-interna"
+    ]
+  },
+  {
+    "id": "parietal__tuber_parietale",
+    "parentId": "parietal",
+    "ru": "Теменной бугор",
+    "la": "tuber parietale",
+    "group": "Ориентиры",
+    "modelNameCandidates": [
+      "tuber parietale",
+      "Теменной бугор",
+      "tuber_parietale",
+      "tuber-parietale"
+    ]
+  },
+  {
+    "id": "parietal__linea_temporalis_superior",
+    "parentId": "parietal",
+    "ru": "Верхняя височная линия",
+    "la": "linea temporalis superior",
+    "group": "Ориентиры",
+    "modelNameCandidates": [
+      "linea temporalis superior",
+      "Верхняя височная линия",
+      "linea_temporalis_superior",
+      "linea-temporalis-superior"
+    ]
+  },
+  {
+    "id": "parietal__linea_temporalis_inferior",
+    "parentId": "parietal",
+    "ru": "Нижняя височная линия",
+    "la": "linea temporalis inferior",
+    "group": "Ориентиры",
+    "modelNameCandidates": [
+      "linea temporalis inferior",
+      "Нижняя височная линия",
+      "linea_temporalis_inferior",
+      "linea-temporalis-inferior"
+    ]
+  },
+  {
+    "id": "parietal__margo_sagittalis",
+    "parentId": "parietal",
+    "ru": "Сагиттальный край",
+    "la": "margo sagittalis",
+    "group": "Ориентиры",
+    "modelNameCandidates": [
+      "margo sagittalis",
+      "Сагиттальный край",
+      "margo_sagittalis",
+      "margo-sagittalis"
+    ]
+  },
+  {
+    "id": "sphenoid__corpus_ossis_sphenoidalis",
+    "parentId": "sphenoid",
+    "ru": "Тело",
+    "la": "corpus ossis sphenoidalis",
+    "group": "Части",
+    "modelNameCandidates": [
+      "corpus ossis sphenoidalis",
+      "Тело",
+      "corpus_ossis_sphenoidalis",
+      "corpus-ossis-sphenoidalis"
+    ]
+  },
+  {
+    "id": "sphenoid__alae_minores",
+    "parentId": "sphenoid",
+    "ru": "Малые крылья",
+    "la": "alae minores",
+    "group": "Части",
+    "modelNameCandidates": [
+      "alae minores",
+      "Малые крылья",
+      "alae_minores",
+      "alae-minores"
+    ]
+  },
+  {
+    "id": "sphenoid__alae_majores",
+    "parentId": "sphenoid",
+    "ru": "Большие крылья",
+    "la": "alae majores",
+    "group": "Части",
+    "modelNameCandidates": [
+      "alae majores",
+      "Большие крылья",
+      "alae_majores",
+      "alae-majores"
+    ]
+  },
+  {
+    "id": "sphenoid__processus_pterygoidei",
+    "parentId": "sphenoid",
+    "ru": "Крыловидные отростки",
+    "la": "processus pterygoidei",
+    "group": "Части",
+    "modelNameCandidates": [
+      "processus pterygoidei",
+      "Крыловидные отростки",
+      "processus_pterygoidei",
+      "processus-pterygoidei"
+    ]
+  },
+  {
+    "id": "sphenoid__sella_turcica",
+    "parentId": "sphenoid",
+    "ru": "Турецкое седло",
+    "la": "sella turcica",
+    "group": "Ориентиры",
+    "modelNameCandidates": [
+      "sella turcica",
+      "Турецкое седло",
+      "sella_turcica",
+      "sella-turcica"
+    ]
+  },
+  {
+    "id": "sphenoid__canalis_opticus",
+    "parentId": "sphenoid",
+    "ru": "Зрительный канал",
+    "la": "canalis opticus",
+    "group": "Ориентиры",
+    "modelNameCandidates": [
+      "canalis opticus",
+      "Зрительный канал",
+      "canalis_opticus",
+      "canalis-opticus"
+    ]
+  },
+  {
+    "id": "sphenoid__fissura_orbitalis_superior",
+    "parentId": "sphenoid",
+    "ru": "Верхняя глазничная щель",
+    "la": "fissura orbitalis superior",
+    "group": "Ориентиры",
+    "modelNameCandidates": [
+      "fissura orbitalis superior",
+      "Верхняя глазничная щель",
+      "fissura_orbitalis_superior",
+      "fissura-orbitalis-superior"
+    ]
+  },
+  {
+    "id": "sphenoid__foramen_rotundum",
+    "parentId": "sphenoid",
+    "ru": "Круглое отверстие",
+    "la": "foramen rotundum",
+    "group": "Ориентиры",
+    "modelNameCandidates": [
+      "foramen rotundum",
+      "Круглое отверстие",
+      "foramen_rotundum",
+      "foramen-rotundum"
+    ]
+  },
+  {
+    "id": "sphenoid__foramen_ovale",
+    "parentId": "sphenoid",
+    "ru": "Овальное отверстие",
+    "la": "foramen ovale",
+    "group": "Ориентиры",
+    "modelNameCandidates": [
+      "foramen ovale",
+      "Овальное отверстие",
+      "foramen_ovale",
+      "foramen-ovale"
+    ]
+  },
+  {
+    "id": "sphenoid__foramen_spinosum",
+    "parentId": "sphenoid",
+    "ru": "Остистое отверстие",
+    "la": "foramen spinosum",
+    "group": "Ориентиры",
+    "modelNameCandidates": [
+      "foramen spinosum",
+      "Остистое отверстие",
+      "foramen_spinosum",
+      "foramen-spinosum"
+    ]
+  },
+  {
+    "id": "mandible__corpus_mandibulae",
+    "parentId": "mandible",
+    "ru": "Тело нижней челюсти",
+    "la": "corpus mandibulae",
+    "group": "Тело",
+    "modelNameCandidates": [
+      "corpus mandibulae",
+      "Тело нижней челюсти",
+      "corpus_mandibulae",
+      "corpus-mandibulae"
+    ]
+  },
+  {
+    "id": "mandible__pars_alveolaris",
+    "parentId": "mandible",
+    "ru": "Альвеолярная часть",
+    "la": "pars alveolaris",
+    "group": "Тело",
+    "modelNameCandidates": [
+      "pars alveolaris",
+      "Альвеолярная часть",
+      "pars_alveolaris",
+      "pars-alveolaris"
+    ]
+  },
+  {
+    "id": "mandible__foramen_mentale",
+    "parentId": "mandible",
+    "ru": "Подбородочное отверстие",
+    "la": "foramen mentale",
+    "group": "Тело",
+    "modelNameCandidates": [
+      "foramen mentale",
+      "Подбородочное отверстие",
+      "foramen_mentale",
+      "foramen-mentale"
+    ]
+  },
+  {
+    "id": "mandible__ramus_mandibulae",
+    "parentId": "mandible",
+    "ru": "Ветвь",
+    "la": "ramus mandibulae",
+    "group": "Ветвь",
+    "modelNameCandidates": [
+      "ramus mandibulae",
+      "Ветвь",
+      "ramus_mandibulae",
+      "ramus-mandibulae"
+    ]
+  },
+  {
+    "id": "mandible__processus_coronoideus",
+    "parentId": "mandible",
+    "ru": "Венечный отросток",
+    "la": "processus coronoideus",
+    "group": "Ветвь",
+    "modelNameCandidates": [
+      "processus coronoideus",
+      "Венечный отросток",
+      "processus_coronoideus",
+      "processus-coronoideus"
+    ]
+  },
+  {
+    "id": "mandible__processus_condylaris",
+    "parentId": "mandible",
+    "ru": "Мыщелковый отросток",
+    "la": "processus condylaris",
+    "group": "Ветвь",
+    "modelNameCandidates": [
+      "processus condylaris",
+      "Мыщелковый отросток",
+      "processus_condylaris",
+      "processus-condylaris"
+    ]
+  },
+  {
+    "id": "mandible__incisura_mandibulae",
+    "parentId": "mandible",
+    "ru": "Вырезка нижней челюсти",
+    "la": "incisura mandibulae",
+    "group": "Ветвь",
+    "modelNameCandidates": [
+      "incisura mandibulae",
+      "Вырезка нижней челюсти",
+      "incisura_mandibulae",
+      "incisura-mandibulae"
+    ]
+  },
+  {
+    "id": "maxilla__corpus_maxillae",
+    "parentId": "maxilla",
+    "ru": "Тело",
+    "la": "corpus maxillae",
+    "group": "Части",
+    "modelNameCandidates": [
+      "corpus maxillae",
+      "Тело",
+      "corpus_maxillae",
+      "corpus-maxillae"
+    ]
+  },
+  {
+    "id": "maxilla__processus_frontalis",
+    "parentId": "maxilla",
+    "ru": "Лобный отросток",
+    "la": "processus frontalis",
+    "group": "Части",
+    "modelNameCandidates": [
+      "processus frontalis",
+      "Лобный отросток",
+      "processus_frontalis",
+      "processus-frontalis"
+    ]
+  },
+  {
+    "id": "maxilla__processus_zygomaticus",
+    "parentId": "maxilla",
+    "ru": "Скуловой отросток",
+    "la": "processus zygomaticus",
+    "group": "Части",
+    "modelNameCandidates": [
+      "processus zygomaticus",
+      "Скуловой отросток",
+      "processus_zygomaticus",
+      "processus-zygomaticus"
+    ]
+  },
+  {
+    "id": "maxilla__processus_palatinus",
+    "parentId": "maxilla",
+    "ru": "Нёбный отросток",
+    "la": "processus palatinus",
+    "group": "Части",
+    "modelNameCandidates": [
+      "processus palatinus",
+      "Нёбный отросток",
+      "processus_palatinus",
+      "processus-palatinus"
+    ]
+  },
+  {
+    "id": "maxilla__processus_alveolaris",
+    "parentId": "maxilla",
+    "ru": "Альвеолярный отросток",
+    "la": "processus alveolaris",
+    "group": "Части",
+    "modelNameCandidates": [
+      "processus alveolaris",
+      "Альвеолярный отросток",
+      "processus_alveolaris",
+      "processus-alveolaris"
+    ]
+  },
+  {
+    "id": "maxilla__foramen_infraorbitale",
+    "parentId": "maxilla",
+    "ru": "Подглазничное отверстие",
+    "la": "foramen infraorbitale",
+    "group": "Ориентиры",
+    "modelNameCandidates": [
+      "foramen infraorbitale",
+      "Подглазничное отверстие",
+      "foramen_infraorbitale",
+      "foramen-infraorbitale"
+    ]
+  },
+  {
+    "id": "maxilla__sinus_maxillaris",
+    "parentId": "maxilla",
+    "ru": "Верхнечелюстная пазуха",
+    "la": "sinus maxillaris",
+    "group": "Ориентиры",
+    "modelNameCandidates": [
+      "sinus maxillaris",
+      "Верхнечелюстная пазуха",
+      "sinus_maxillaris",
+      "sinus-maxillaris"
+    ]
+  },
+  {
+    "id": "zygomatic__facies_lateralis",
+    "parentId": "zygomatic",
+    "ru": "Латеральная поверхность",
+    "la": "facies lateralis",
+    "group": "Поверхности",
+    "modelNameCandidates": [
+      "facies lateralis",
+      "Латеральная поверхность",
+      "facies_lateralis",
+      "facies-lateralis"
+    ]
+  },
+  {
+    "id": "zygomatic__facies_orbitalis",
+    "parentId": "zygomatic",
+    "ru": "Глазничная поверхность",
+    "la": "facies orbitalis",
+    "group": "Поверхности",
+    "modelNameCandidates": [
+      "facies orbitalis",
+      "Глазничная поверхность",
+      "facies_orbitalis",
+      "facies-orbitalis"
+    ]
+  },
+  {
+    "id": "zygomatic__processus_frontalis",
+    "parentId": "zygomatic",
+    "ru": "Лобный отросток",
+    "la": "processus frontalis",
+    "group": "Отростки",
+    "modelNameCandidates": [
+      "processus frontalis",
+      "Лобный отросток",
+      "processus_frontalis",
+      "processus-frontalis"
+    ]
+  },
+  {
+    "id": "zygomatic__processus_temporalis",
+    "parentId": "zygomatic",
+    "ru": "Височный отросток",
+    "la": "processus temporalis",
+    "group": "Отростки",
+    "modelNameCandidates": [
+      "processus temporalis",
+      "Височный отросток",
+      "processus_temporalis",
+      "processus-temporalis"
+    ]
+  },
+  {
+    "id": "zygomatic__processus_maxillaris",
+    "parentId": "zygomatic",
+    "ru": "Верхнечелюстной отросток",
+    "la": "processus maxillaris",
+    "group": "Отростки",
+    "modelNameCandidates": [
+      "processus maxillaris",
+      "Верхнечелюстной отросток",
+      "processus_maxillaris",
+      "processus-maxillaris"
+    ]
+  }
+]

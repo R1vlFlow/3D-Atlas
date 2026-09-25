@@ -1,0 +1,11 @@
+<!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>3D Anatomy Atlas — Beta 1.10</title><link rel="stylesheet" href="./src/style.css">
+<script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.180.0/build/three.module.js","three/addons/":"https://cdn.jsdelivr.net/npm/three@0.180.0/examples/jsm/"}}</script>
+</head><body>
+<header><div><strong>🧬 3D Anatomy Atlas</strong><span class="badge">OPEN BETA 1.10</span></div>
+<div class="top"><button id="studyBtn">📚 Учёба</button><button id="findBtn">🎯 Найди</button><button id="quizBtn">🧠 Тест</button><button id="examBtn">🏆 Экзамен</button><button id="progressBtn">📊 Прогресс</button><button id="resetProgress">↻</button><button id="aboutBtn">ⓘ</button></div></header>
+<main><section class="viewer"><div id="scene"></div><div class="scene-tools"><button id="reset">↺</button><button id="explode">⇲</button><label><input id="boneLayer" type="checkbox" checked> кости</label><label><input id="labels" type="checkbox" checked> подписи</label></div><div id="modelStatus">3D engine: запуск…</div></section>
+<aside><div class="searchrow"><input id="search" placeholder="Поиск структуры…"></div><div class="tabs"><button data-tab="bones">Кости</button><button data-tab="canals">Каналы</button><button data-tab="passages">Отверстия</button></div><div class="tree-tools"><button id="treeAll">Все</button><button id="treePaired">Парные</button><button id="treeUnpaired">Непарные</button><button id="mappingBtn">🔗 Mapping</button><button id="relationsBtn">🧩 Связи</button><button id="treeBtn">🌳 Дерево</button><button id="regionsBtn">🦴 Отделы скелета</button><button id="labBtn">🧪 Лаборатория</button></div><div id="list"></div>
+<article id="card"><h2>3D Anatomy Atlas</h2><p>Выбери структуру в базе или непосредственно на 3D-модели.</p></article><article id="studyPanel" class="study-panel" style="display:none"></article></aside></main>
+<div id="modal"><div id="modalBox"></div></div><footer>Educational beta · данные и 3D-ассеты должны сохранять исходную атрибуцию и лицензию</footer>
+<script type="module" src="./src/app.js"></script></body></html>

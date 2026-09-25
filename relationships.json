@@ -1,0 +1,350 @@
+{
+  "frontal": {
+    "parts": [
+      "Squama frontalis",
+      "Partes orbitales",
+      "Pars nasalis"
+    ],
+    "landmarks": [
+      "Glabella",
+      "Arcus superciliares",
+      "Incisura/foramen supraorbitale",
+      "Crista frontalis"
+    ],
+    "relations": [
+      "Os parietale",
+      "Os sphenoidale",
+      "Os ethmoidale",
+      "Os zygomaticum"
+    ],
+    "forms": [
+      "крыша орбиты",
+      "передняя черепная ямка"
+    ]
+  },
+  "parietal": {
+    "parts": [
+      "Squama parietalis"
+    ],
+    "landmarks": [
+      "Eminentia parietalis",
+      "Linea temporalis superior et inferior",
+      "Foramen parietale"
+    ],
+    "relations": [
+      "Os frontale",
+      "Os occipitale",
+      "Os temporale",
+      "Os sphenoidale"
+    ],
+    "forms": [
+      "свод черепа"
+    ]
+  },
+  "occipital": {
+    "parts": [
+      "Pars basilaris",
+      "Partes laterales",
+      "Squama occipitalis"
+    ],
+    "landmarks": [
+      "Foramen magnum",
+      "Condylus occipitalis",
+      "Protuberantia occipitalis externa",
+      "Crista occipitalis interna",
+      "Canalis nervi hypoglossi"
+    ],
+    "relations": [
+      "Os temporale",
+      "Os sphenoidale",
+      "Os parietale",
+      "Atlas"
+    ],
+    "forms": [
+      "задняя черепная ямка",
+      "основание черепа"
+    ]
+  },
+  "temporal": {
+    "parts": [
+      "Pars squamosa",
+      "Pars petrosa",
+      "Pars mastoidea",
+      "Pars tympanica",
+      "Processus styloideus"
+    ],
+    "landmarks": [
+      "Meatus acusticus externus",
+      "Meatus acusticus internus",
+      "Processus mastoideus",
+      "Processus styloideus",
+      "Foramen stylomastoideum",
+      "Canalis caroticus"
+    ],
+    "relations": [
+      "Os sphenoidale",
+      "Os occipitale",
+      "Os parietale",
+      "Mandibula"
+    ],
+    "forms": [
+      "латеральная стенка основания черепа",
+      "средняя и задняя черепные ямки"
+    ]
+  },
+  "sphenoid": {
+    "parts": [
+      "Corpus ossis sphenoidalis",
+      "Alae minores",
+      "Alae majores",
+      "Processus pterygoidei"
+    ],
+    "landmarks": [
+      "Sella turcica",
+      "Canalis opticus",
+      "Fissura orbitalis superior",
+      "Foramen rotundum",
+      "Foramen ovale",
+      "Foramen spinosum"
+    ],
+    "relations": [
+      "Os frontale",
+      "Os ethmoidale",
+      "Os temporale",
+      "Os occipitale",
+      "Os zygomaticum",
+      "Os palatinum"
+    ],
+    "forms": [
+      "средняя черепная ямка",
+      "орбита"
+    ]
+  },
+  "ethmoid": {
+    "parts": [
+      "Lamina cribrosa",
+      "Crista galli",
+      "Lamina perpendicularis",
+      "Labyrinthi ethmoidales"
+    ],
+    "landmarks": [
+      "Foramina cribrosa",
+      "Concha nasalis superior",
+      "Concha nasalis media"
+    ],
+    "relations": [
+      "Os frontale",
+      "Os sphenoidale",
+      "Vomer",
+      "Os lacrimale",
+      "Maxilla"
+    ],
+    "forms": [
+      "передняя черепная ямка",
+      "перегородка носа",
+      "медиальная стенка орбиты"
+    ]
+  },
+  "zygomatic": {
+    "parts": [
+      "Processus frontalis",
+      "Processus temporalis",
+      "Processus maxillaris"
+    ],
+    "landmarks": [
+      "Foramen zygomaticofaciale",
+      "Foramen zygomaticotemporale"
+    ],
+    "relations": [
+      "Os frontale",
+      "Os maxilla",
+      "Os temporale",
+      "Os sphenoidale"
+    ],
+    "forms": [
+      "латеральная стенка орбиты",
+      "arcus zygomaticus"
+    ]
+  },
+  "maxilla": {
+    "parts": [
+      "Corpus maxillae",
+      "Processus frontalis",
+      "Processus zygomaticus",
+      "Processus alveolaris",
+      "Processus palatinus"
+    ],
+    "landmarks": [
+      "Foramen infraorbitale",
+      "Sinus maxillaris",
+      "Canalis incisivus"
+    ],
+    "relations": [
+      "Os zygomaticum",
+      "Os palatinum",
+      "Os nasale",
+      "Os lacrimale",
+      "Vomer"
+    ],
+    "forms": [
+      "передняя стенка орбиты",
+      "полость носа",
+      "твёрдое нёбо"
+    ]
+  },
+  "mandible": {
+    "parts": [
+      "Corpus mandibulae",
+      "Ramus mandibulae",
+      "Angulus mandibulae",
+      "Processus coronoideus",
+      "Processus condylaris"
+    ],
+    "landmarks": [
+      "Foramen mentale",
+      "Foramen mandibulae",
+      "Canalis mandibulae",
+      "Processus condylaris"
+    ],
+    "relations": [
+      "Os temporale",
+      "Maxilla"
+    ],
+    "forms": [
+      "нижняя часть лицевого черепа"
+    ]
+  },
+  "carotid": {
+    "relations": [
+      "Os temporale",
+      "A. carotis interna",
+      "plexus sympathicus"
+    ],
+    "forms": [
+      "пирамиду височной кости"
+    ]
+  },
+  "facial": {
+    "relations": [
+      "Os temporale",
+      "N. facialis (VII)",
+      "chorda tympani"
+    ],
+    "forms": [
+      "Meatus acusticus internus",
+      "Foramen stylomastoideum"
+    ]
+  },
+  "hypoglossal": {
+    "relations": [
+      "Os occipitale",
+      "N. hypoglossus (XII)"
+    ],
+    "forms": [
+      "condylus occipitalis"
+    ]
+  },
+  "optic": {
+    "relations": [
+      "Os sphenoidale",
+      "N. opticus (II)",
+      "A. ophthalmica"
+    ],
+    "forms": [
+      "орбиту",
+      "среднюю черепную ямку"
+    ]
+  },
+  "internal-auditory": {
+    "relations": [
+      "Os temporale",
+      "N. facialis (VII)",
+      "N. vestibulocochlearis (VIII)",
+      "A. labyrinthi"
+    ],
+    "forms": [
+      "заднюю черепную ямку",
+      "внутреннее ухо"
+    ]
+  },
+  "foramen-magnum": {
+    "relations": [
+      "Os occipitale",
+      "medulla oblongata",
+      "A. vertebralis"
+    ],
+    "forms": [
+      "заднюю черепную ямку",
+      "позвоночный канал"
+    ]
+  },
+  "foramen-jugulare": {
+    "relations": [
+      "Os temporale",
+      "Os occipitale",
+      "N. IX",
+      "N. X",
+      "N. XI"
+    ],
+    "forms": [
+      "заднюю черепную ямку",
+      "внутреннюю яремную вену"
+    ]
+  },
+  "foramen-ovale": {
+    "relations": [
+      "Os sphenoidale",
+      "N. mandibularis (V3)"
+    ],
+    "forms": [
+      "среднюю черепную ямку",
+      "подвисочную ямку"
+    ]
+  },
+  "foramen-spinosum": {
+    "relations": [
+      "Os sphenoidale",
+      "A. meningea media"
+    ],
+    "forms": [
+      "среднюю черепную ямку",
+      "подвисочную область"
+    ]
+  },
+  "foramen-rotundum": {
+    "relations": [
+      "Os sphenoidale",
+      "N. maxillaris (V2)"
+    ],
+    "forms": [
+      "среднюю черепную ямку",
+      "крылонёбную ямку"
+    ]
+  },
+  "superior-orbital-fissure": {
+    "relations": [
+      "Os sphenoidale",
+      "III",
+      "IV",
+      "V1",
+      "VI"
+    ],
+    "forms": [
+      "среднюю черепную ямку",
+      "орбиту"
+    ]
+  },
+  "inferior-orbital-fissure": {
+    "relations": [
+      "Maxilla",
+      "Os sphenoidale",
+      "Os zygomaticum",
+      "V2"
+    ],
+    "forms": [
+      "орбиту",
+      "крылонёбную ямку",
+      "подвисочную ямку"
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "skull_regions": [
+    {
+      "id": "neurocranium",
+      "ru": "Мозговой отдел черепа",
+      "children": [
+        "frontal",
+        "parietal",
+        "occipital",
+        "temporal",
+        "sphenoid",
+        "ethmoid"
+      ]
+    },
+    {
+      "id": "viscerocranium",
+      "ru": "Лицевой отдел черепа",
+      "children": [
+        "zygomatic",
+        "maxilla",
+        "palatine",
+        "nasal",
+        "lacrimal",
+        "vomer",
+        "inferior-nasal-concha",
+        "mandible"
+      ]
+    },
+    {
+      "id": "future",
+      "ru": "Расширение атласа",
+      "children": [
+        "hyoid"
+      ]
+    }
+  ],
+  "pathways": [
+    {
+      "id": "temporal-pathways",
+      "ru": "Височная кость — каналы и проходы",
+      "bone": "temporal",
+      "children": [
+        "carotid",
+        "facial",
+        "internal-auditory",
+        "foramen-jugulare"
+      ]
+    },
+    {
+      "id": "occipital-pathways",
+      "ru": "Затылочная кость — каналы и проходы",
+      "bone": "occipital",
+      "children": [
+        "hypoglossal",
+        "foramen-magnum"
+      ]
+    },
+    {
+      "id": "sphenoid-pathways",
+      "ru": "Клиновидная кость — каналы и отверстия",
+      "bone": "sphenoid",
+      "children": [
+        "optic",
+        "foramen-rotundum",
+        "foramen-ovale",
+        "foramen-spinosum",
+        "superior-orbital-fissure"
+      ]
+    },
+    {
+      "id": "orbit-pathways",
+      "ru": "Орбита — щели и сообщения",
+      "children": [
+        "inferior-orbital-fissure"
+      ]
+    }
+  ],
+  "skeleton_regions": [
+    {
+      "ru": "Череп",
+      "children": [
+        "frontal",
+        "parietal",
+        "occipital",
+        "temporal",
+        "sphenoid",
+        "ethmoid",
+        "zygomatic",
+        "maxilla",
+        "mandible",
+        "palatine",
+        "nasal",
+        "lacrimal",
+        "vomer",
+        "inferior-nasal-concha"
+      ]
+    },
+    {
+      "ru": "Позвоночный столб",
+      "children": [
+        "vertebrae-cervical",
+        "vertebrae-thoracic",
+        "vertebrae-lumbar",
+        "sacrum",
+        "coccyx",
+        "atlas",
+        "axis",
+        "c7",
+        "t1",
+        "t12",
+        "l1",
+        "l5"
+      ]
+    },
+    {
+      "ru": "Грудная клетка",
+      "children": [
+        "rib",
+        "sternum",
+        "manubrium",
+        "body-sternum",
+        "xiphoid"
+      ]
+    },
+    {
+      "ru": "Верхняя конечность",
+      "children": [
+        "clavicle",
+        "scapula",
+        "humerus",
+        "radius",
+        "ulna",
+        "carpal-bones",
+        "metacarpals",
+        "phalanges-hand",
+        "scaphoid",
+        "lunate",
+        "triquetrum",
+        "pisiform",
+        "trapezium",
+        "trapezoid",
+        "capitate",
+        "hamate"
+      ]
+    },
+    {
+      "ru": "Таз",
+      "children": [
+        "pelvic-bone",
+        "ilium",
+        "ischium",
+        "pubis"
+      ]
+    },
+    {
+      "ru": "Нижняя конечность",
+      "children": [
+        "femur",
+        "patella",
+        "tibia",
+        "fibula",
+        "tarsal-bones",
+        "metatarsals",
+        "phalanges-foot",
+        "talus",
+        "calcaneus",
+        "navicular-foot",
+        "cuboid",
+        "medial-cuneiform",
+        "intermediate-cuneiform",
+        "lateral-cuneiform"
+      ]
+    },
+    {
+      "ru": "Дополнительные кости",
+      "children": [
+        "hyoid"
+      ]
+    }
+  ]
+}
